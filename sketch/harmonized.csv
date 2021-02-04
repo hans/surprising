@@ -1,0 +1,528 @@
+,surp_idx,aligned_idx,token,surprisal,alignedWord,case,end,endOffset,phones,start,startOffset,word
+0,0,0,i,8.92268,i,success,17.169999999999998,1,"[{'duration': 0.09, 'phone': 'ay_S'}]",17.08,0,I
+1,1,1,just,5.75346,just,success,17.400000000000002,6,"[{'duration': 0.07, 'phone': 'jh_B'}, {'duration': 0.06, 'phone': 'ah_I'}, {'duration': 0.04, 'phone': 's_I'}, {'duration': 0.06, 'phone': 't_E'}]",17.17,2,just
+2,2,2,had,7.218489999999999,had,success,17.56,10,"[{'duration': 0.05, 'phone': 'hh_B'}, {'duration': 0.05, 'phone': 'ae_I'}, {'duration': 0.06, 'phone': 'd_E'}]",17.4,7,had
+3,3,3,a,4.03629,a,success,17.839999000000002,12,"[{'duration': 0.28, 'phone': 'ah_S'}]",17.559999,11,a
+4,4,4,really,4.657780000000001,really,success,18.359999,19,"[{'duration': 0.08, 'phone': 'r_B'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 'l_I'}, {'duration': 0.05, 'phone': 'iy_E'}]",18.109999,13,really
+5,5,5,nice,4.93584,nice,success,18.7,24,"[{'duration': 0.06, 'phone': 'n_B'}, {'duration': 0.13, 'phone': 'ay_I'}, {'duration': 0.15, 'phone': 's_E'}]",18.36,20,nice
+6,6,6,walk,15.1028,walk,success,19.16,29,"[{'duration': 0.06, 'phone': 'w_B'}, {'duration': 0.13, 'phone': 'ao_I'}, {'duration': 0.27, 'phone': 'k_E'}]",18.7,25,walk
+7,7,7,with,5.93323,with,success,19.53,34,"[{'duration': 0.07, 'phone': 'w_B'}, {'duration': 0.02, 'phone': 'ih_I'}, {'duration': 0.08, 'phone': 'th_E'}]",19.36,30,with
+8,8,8,a,3.7531,a,success,19.83,36,"[{'duration': 0.27, 'phone': 'ah_S'}]",19.56,35,a
+9,9,9,very,8.35012,very,success,20.35,41,"[{'duration': 0.12, 'phone': 'v_B'}, {'duration': 0.07, 'phone': 'eh_I'}, {'duration': 0.08, 'phone': 'r_I'}, {'duration': 0.05, 'phone': 'iy_E'}]",20.03,37,very
+10,10,10,nice,9.08565,nice,success,20.76,46,"[{'duration': 0.07, 'phone': 'n_B'}, {'duration': 0.09, 'phone': 'ay_I'}, {'duration': 0.25, 'phone': 's_E'}]",20.35,42,nice
+11,11,11,string,15.1296,string,success,21.07,53,"[{'duration': 0.07, 'phone': 's_B'}, {'duration': 0.07, 'phone': 't_I'}, {'duration': 0.04, 'phone': 'r_I'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 'ng_E'}]",20.77,47,string
+12,12,12,of,4.14809,of,success,21.19,56,"[{'duration': 0.06, 'phone': 'ah_B'}, {'duration': 0.06, 'phone': 'v_E'}]",21.07,54,of
+13,13,13,thoughts,15.1046,thoughts,success,21.580000000000002,65,"[{'duration': 0.1, 'phone': 'th_B'}, {'duration': 0.1, 'phone': 'ao_I'}, {'duration': 0.09, 'phone': 't_I'}, {'duration': 0.1, 'phone': 's_E'}]",21.19,57,thoughts
+14,14,14,and,1.97053,and,success,21.75,69,"[{'duration': 0.07, 'phone': 'ah_B'}, {'duration': 0.04, 'phone': 'n_I'}, {'duration': 0.06, 'phone': 'd_E'}]",21.58,66,and
+15,15,15,i,10.53,i,success,21.92,71,"[{'duration': 0.17, 'phone': 'ay_S'}]",21.75,70,I
+16,16,16,just,6.19919,just,success,22.779999999999998,76,"[{'duration': 0.08, 'phone': 'jh_B'}, {'duration': 0.02, 'phone': 'ah_I'}, {'duration': 0.05, 'phone': 's_I'}, {'duration': 0.05, 'phone': 't_E'}]",22.58,72,just
+17,17,17,wanted,3.81735,wanted,success,23.040000000000003,83,"[{'duration': 0.03, 'phone': 'w_B'}, {'duration': 0.05, 'phone': 'ao_I'}, {'duration': 0.04, 'phone': 'n_I'}, {'duration': 0.05, 'phone': 't_I'}, {'duration': 0.04, 'phone': 'ih_I'}, {'duration': 0.05, 'phone': 'd_E'}]",22.78,77,wanted
+18,18,18,to,0.5713010000000001,to,success,23.16,86,"[{'duration': 0.06, 'phone': 't_B'}, {'duration': 0.04, 'phone': 'ih_E'}]",23.06,84,to
+19,19,19,record,8.89734,record,success,23.59,93,"[{'duration': 0.05, 'phone': 'r_B'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.1, 'phone': 'k_I'}, {'duration': 0.05, 'phone': 'ao_I'}, {'duration': 0.05, 'phone': 'r_I'}, {'duration': 0.08, 'phone': 'd_E'}]",23.2,87,record
+20,20,20,them,7.73215,them,success,23.78,98,"[{'duration': 0.01, 'phone': 'dh_B'}, {'duration': 0.08, 'phone': 'ah_I'}, {'duration': 0.1, 'phone': 'm_E'}]",23.59,94,them
+21,21,21,before,8.54495,before,success,24.09,105,"[{'duration': 0.02, 'phone': 'b_B'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.1, 'phone': 'f_I'}, {'duration': 0.04, 'phone': 'ao_I'}, {'duration': 0.08, 'phone': 'r_E'}]",23.79,99,before
+22,22,22,they,2.80071,they,success,24.35,110,"[{'duration': 0.07, 'phone': 'dh_B'}, {'duration': 0.19, 'phone': 'ey_E'}]",24.09,106,they
+23,23,23,get,7.689080000000001,get,success,24.79,114,"[{'duration': 0.17, 'phone': 'g_B'}, {'duration': 0.05, 'phone': 'eh_I'}, {'duration': 0.06, 'phone': 't_E'}]",24.509999999999998,111,get
+24,24,24,forgotten,17.6731,forgotten,success,25.18,124,"[{'duration': 0.06, 'phone': 'f_B'}, {'duration': 0.05, 'phone': 'er_I'}, {'duration': 0.06, 'phone': 'g_I'}, {'duration': 0.06, 'phone': 'aa_I'}, {'duration': 0.08, 'phone': 't_I'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.04, 'phone': 'n_E'}]",24.79,115,forgotten
+25,26,25,it,14.7316,it,success,25.27,128,"[{'duration': 0.05, 'phone': 'ih_B'}, {'duration': 0.04, 'phone': 't_E'}]",25.18,126,It
+26,27,26,made,9.17805,made,success,25.650000000000002,133,"[{'duration': 0.22, 'phone': 'm_B'}, {'duration': 0.07, 'phone': 'ey_I'}, {'duration': 0.06, 'phone': 'd_E'}]",25.3,129,made
+27,28,27,me,5.13788,me,success,25.79,136,"[{'duration': 0.06, 'phone': 'm_B'}, {'duration': 0.08, 'phone': 'iy_E'}]",25.65,134,me
+28,29,28,feel,3.29991,feel,success,26.009999999999998,141,"[{'duration': 0.1, 'phone': 'f_B'}, {'duration': 0.06, 'phone': 'iy_I'}, {'duration': 0.06, 'phone': 'l_E'}]",25.79,137,feel
+29,30,29,really,10.4876,really,success,26.259999999999998,148,"[{'duration': 0.04, 'phone': 'r_B'}, {'duration': 0.07, 'phone': 'iy_I'}, {'duration': 0.06, 'phone': 'l_I'}, {'duration': 0.08, 'phone': 'iy_E'}]",26.009999999999998,142,really
+30,31,30,good,6.555110000000001,good,success,26.569999999999997,153,"[{'duration': 0.08, 'phone': 'g_B'}, {'duration': 0.09, 'phone': 'uh_I'}, {'duration': 0.14, 'phone': 'd_E'}]",26.259999999999998,149,good
+31,33,31,so,12.722,so,success,29.899999,157,"[{'duration': 0.12, 'phone': 's_B'}, {'duration': 0.06, 'phone': 'ow_E'}]",29.719999,155,So
+32,34,32,i,7.69263,i,success,29.97,159,"[{'duration': 0.07, 'phone': 'ay_S'}]",29.9,158,I
+33,35,33,was,4.96875,was,success,30.189999,163,"[{'duration': 0.07, 'phone': 'w_B'}, {'duration': 0.07, 'phone': 'ah_I'}, {'duration': 0.08, 'phone': 'z_E'}]",29.969999,160,was
+34,36,34,going,6.01141,going,success,30.419999999999998,169,"[{'duration': 0.06, 'phone': 'g_B'}, {'duration': 0.05, 'phone': 'ow_I'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.05, 'phone': 'ng_E'}]",30.189999999999998,164,going
+35,37,35,to,0.691576,to,success,30.520000000000003,172,"[{'duration': 0.03, 'phone': 't_B'}, {'duration': 0.07, 'phone': 'ih_E'}]",30.42,170,to
+36,38,36,pick,10.2171,pick,success,30.7,177,"[{'duration': 0.03, 'phone': 'p_B'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 'k_E'}]",30.54,173,pick
+37,39,37,up,2.65778,up,success,30.84,180,"[{'duration': 0.04, 'phone': 'ah_B'}, {'duration': 0.1, 'phone': 'p_E'}]",30.7,178,up
+38,40,38,coffee,15.0137,coffee,success,31.19,187,"[{'duration': 0.1, 'phone': 'k_B'}, {'duration': 0.05, 'phone': 'aa_I'}, {'duration': 0.12, 'phone': 'f_I'}, {'duration': 0.08, 'phone': 'iy_E'}]",30.84,181,coffee
+39,41,39,from,8.296389999999999,from,success,31.319999999999997,192,"[{'duration': 0.1, 'phone': 'f_B'}, {'duration': 0.01, 'phone': 'r_I'}, {'duration': 0.01, 'phone': 'ah_I'}, {'duration': 0.01, 'phone': 'm_E'}]",31.189999999999998,188,from
+40,42,40,render,17.3805,render,success,31.8,199,"[{'duration': 0.2, 'phone': 'r_B'}, {'duration': 0.02, 'phone': 'eh_I'}, {'duration': 0.06, 'phone': 'n_I'}, {'duration': 0.07, 'phone': 'd_I'}, {'duration': 0.09, 'phone': 'er_E'}]",31.36,193,render
+41,43,41,coffee,15.2275,coffee,success,32.219999,206,"[{'duration': 0.09, 'phone': 'k_B'}, {'duration': 0.07, 'phone': 'aa_I'}, {'duration': 0.12, 'phone': 'f_I'}, {'duration': 0.14, 'phone': 'iy_E'}]",31.799999,200,coffee
+42,45,42,which,5.274,which,success,32.92,213,"[{'duration': 0.05, 'phone': 'w_B'}, {'duration': 0.05, 'phone': 'ih_I'}, {'duration': 0.09, 'phone': 'ch_E'}]",32.730000000000004,208,which
+43,46,43,is,3.33585,is,success,33.229999,216,"[{'duration': 0.08, 'phone': 'ih_B'}, {'duration': 0.22, 'phone': 'z_E'}]",32.929999,214,is
+44,47,44,over,10.7531,over,success,33.659999,221,"[{'duration': 0.1, 'phone': 'ow_B'}, {'duration': 0.11, 'phone': 'v_I'}, {'duration': 0.11, 'phone': 'er_E'}]",33.339999,217,over
+45,48,45,on,8.80561,on,success,33.88999999999999,224,"[{'duration': 0.07, 'phone': 'ao_B'}, {'duration': 0.16, 'phone': 'n_E'}]",33.66,222,on
+46,49,46,mass,13.5201,mass,success,34.429999,229,"[{'duration': 0.13, 'phone': 'm_B'}, {'duration': 0.09, 'phone': 'ae_I'}, {'duration': 0.15, 'phone': 's_E'}]",34.059999000000005,225,mass
+47,50,47,ave,10.4501,ave,success,34.56,233,"[{'duration': 0.11, 'phone': 'aa_B'}, {'duration': 0.01, 'phone': 'v_I'}, {'duration': 0.01, 'phone': 'ey_E'}]",34.43,230,ave
+48,52,48,always,12.7518,always,success,35.209999999999994,241,"[{'duration': 0.07, 'phone': 'ao_B'}, {'duration': 0.02, 'phone': 'l_I'}, {'duration': 0.09, 'phone': 'w_I'}, {'duration': 0.07, 'phone': 'ey_I'}, {'duration': 0.05, 'phone': 'z_E'}]",34.91,235,always
+49,53,49,a,5.68372,a,success,35.269999,243,"[{'duration': 0.06, 'phone': 'ah_S'}]",35.209998999999996,242,a
+50,54,50,wonderful,12.8241,wonderful,success,35.699999999999996,253,"[{'duration': 0.07, 'phone': 'w_B'}, {'duration': 0.06, 'phone': 'ah_I'}, {'duration': 0.03, 'phone': 'n_I'}, {'duration': 0.04, 'phone': 'd_I'}, {'duration': 0.07, 'phone': 'er_I'}, {'duration': 0.07, 'phone': 'f_I'}, {'duration': 0.03, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 'l_E'}]",35.269999999999996,244,wonderful
+51,55,51,walk,14.9472,walk,success,35.949999,258,"[{'duration': 0.05, 'phone': 'w_B'}, {'duration': 0.1, 'phone': 'ao_I'}, {'duration': 0.1, 'phone': 'k_E'}]",35.699999,254,walk
+52,56,52,in,5.16139,in,success,36.049999,261,"[{'duration': 0.03, 'phone': 'ih_B'}, {'duration': 0.06, 'phone': 'n_E'}]",35.959998999999996,259,in
+53,57,53,the,2.7792,the,success,36.159999,265,"[{'duration': 0.08, 'phone': 'dh_B'}, {'duration': 0.03, 'phone': 'ah_E'}]",36.049999,262,the
+54,58,54,park,9.51905,park,success,36.51,270,"[{'duration': 0.09, 'phone': 'p_B'}, {'duration': 0.04, 'phone': 'aa_I'}, {'duration': 0.07, 'phone': 'r_I'}, {'duration': 0.15, 'phone': 'k_E'}]",36.16,266,park
+55,60,55,on,15.1826,on,success,37.97,274,"[{'duration': 0.13, 'phone': 'aa_B'}, {'duration': 0.22, 'phone': 'n_E'}]",37.62,272,On
+56,61,56,the,3.74276,the,success,39.050000000000004,278,"[{'duration': 0.04, 'phone': 'dh_B'}, {'duration': 0.05, 'phone': 'ah_E'}]",38.96,275,the
+57,62,57,way,8.43999,way,success,39.269999999999996,282,"[{'duration': 0.08, 'phone': 'w_B'}, {'duration': 0.14, 'phone': 'ey_E'}]",39.05,279,way
+58,63,58,back,4.18668,back,success,39.870000000000005,287,"[{'duration': 0.09, 'phone': 'b_B'}, {'duration': 0.14, 'phone': 'ae_I'}, {'duration': 0.33, 'phone': 'k_E'}]",39.31,283,back
+59,64,59,i,13.3166,i,success,41.55,289,"[{'duration': 0.11, 'phone': 'ay_S'}]",41.44,288,I
+60,65,60,just,8.51098,just,success,41.669999999999995,294,"[{'duration': 0.06, 'phone': 'jh_B'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.01, 'phone': 's_I'}, {'duration': 0.01, 'phone': 't_E'}]",41.55,290,just
+61,66,61,started,11.1629,started,success,41.93,302,"[{'duration': 0.02, 'phone': 's_B'}, {'duration': 0.06, 'phone': 't_I'}, {'duration': 0.05, 'phone': 'aa_I'}, {'duration': 0.01, 'phone': 'r_I'}, {'duration': 0.04, 'phone': 't_I'}, {'duration': 0.04, 'phone': 'ih_I'}, {'duration': 0.04, 'phone': 'd_E'}]",41.67,295,started
+62,67,62,thinking,10.1009,thinking,success,42.3,311,"[{'duration': 0.07, 'phone': 'th_B'}, {'duration': 0.05, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 'ng_I'}, {'duration': 0.04, 'phone': 'k_I'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.08, 'phone': 'ng_E'}]",41.93,303,thinking
+63,68,63,about,0.855058,about,success,42.599999999999994,317,"[{'duration': 0.05, 'phone': 'ah_B'}, {'duration': 0.07, 'phone': 'b_I'}, {'duration': 0.07, 'phone': 'aw_I'}, {'duration': 0.11, 'phone': 't_E'}]",42.3,312,about
+64,69,64,kind,17.1206,kind,success,43.589999999999996,322,"[{'duration': 0.05, 'phone': 'k_B'}, {'duration': 0.04, 'phone': 'ay_I'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.02, 'phone': 'd_E'}]",43.47,318,kind
+65,70,65,of,1.98347,of,success,43.7,325,"[{'duration': 0.03, 'phone': 'ah_B'}, {'duration': 0.08, 'phone': 'v_E'}]",43.59,323,of
+66,71,66,other,9.35481,other,success,45.389999,331,"[{'duration': 0.06, 'phone': 'ah_B'}, {'duration': 0.09, 'phone': 'dh_I'}, {'duration': 0.1, 'phone': 'er_E'}]",45.139999,326,other
+67,72,67,possible,10.4891,possible,success,45.86,340,"[{'duration': 0.07, 'phone': 'p_B'}, {'duration': 0.11, 'phone': 'aa_I'}, {'duration': 0.04, 'phone': 's_I'}, {'duration': 0.09, 'phone': 'ah_I'}, {'duration': 0.02, 'phone': 'b_I'}, {'duration': 0.08, 'phone': 'ah_I'}, {'duration': 0.05, 'phone': 'l_E'}]",45.4,332,possible
+68,73,68,yearly,15.9564,yearly,success,46.19,347,"[{'duration': 0.06, 'phone': 'y_B'}, {'duration': 0.08, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 'r_I'}, {'duration': 0.08, 'phone': 'l_I'}, {'duration': 0.04, 'phone': 'iy_E'}]",45.86,341,yearly
+69,74,69,themes,10.9429,themes,success,46.699999999999996,354,"[{'duration': 0.11, 'phone': 'th_B'}, {'duration': 0.11, 'phone': 'iy_I'}, {'duration': 0.11, 'phone': 'm_I'}, {'duration': 0.18, 'phone': 'z_E'}]",46.19,348,themes
+70,76,70,i,18.4344,i,success,47.929998999999995,357,"[{'duration': 0.12, 'phone': 'ay_S'}]",47.809999,356,I
+71,77,71,had,5.839919999999999,had,success,48.159999,361,"[{'duration': 0.01, 'phone': 'hh_B'}, {'duration': 0.14, 'phone': 'ae_I'}, {'duration': 0.08, 'phone': 'd_E'}]",47.929999,358,had
+72,78,72,the,5.60454,the,success,48.279999999999994,365,"[{'duration': 0.03, 'phone': 'dh_B'}, {'duration': 0.09, 'phone': 'ah_E'}]",48.16,362,the
+73,79,73,recent,14.4595,recent,success,48.730000000000004,372,"[{'duration': 0.11, 'phone': 'r_B'}, {'duration': 0.07, 'phone': 'iy_I'}, {'duration': 0.08, 'phone': 's_I'}, {'duration': 0.09, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 'n_I'}, {'duration': 0.04, 'phone': 't_E'}]",48.28,366,recent
+74,80,74,thought,13.3805,thought,success,49.050000000000004,380,"[{'duration': 0.08, 'phone': 'th_B'}, {'duration': 0.11, 'phone': 'ao_I'}, {'duration': 0.13, 'phone': 't_E'}]",48.730000000000004,373,thought
+75,81,75,that,3.3555,that,success,49.189999,385,"[{'duration': 0.05, 'phone': 'dh_B'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.04, 'phone': 't_E'}]",49.059999,381,that
+76,82,76,i,8.09404,i,success,49.339999999999996,387,"[{'duration': 0.15, 'phone': 'ay_S'}]",49.19,386,I
+77,83,77,really,7.00813,really,success,50.07,394,"[{'duration': 0.21, 'phone': 'r_B'}, {'duration': 0.1, 'phone': 'iy_I'}, {'duration': 0.11, 'phone': 'l_I'}, {'duration': 0.23, 'phone': 'iy_E'}]",49.42,388,really
+78,84,78,liked,4.717890000000001,liked,success,50.449999999999996,400,"[{'duration': 0.12, 'phone': 'l_B'}, {'duration': 0.08, 'phone': 'ay_I'}, {'duration': 0.08, 'phone': 'k_I'}, {'duration': 0.09, 'phone': 't_E'}]",50.08,395,liked
+79,85,79,biking,19.9593,biking,success,51.16,407,"[{'duration': 0.09, 'phone': 'b_B'}, {'duration': 0.09, 'phone': 'ay_I'}, {'duration': 0.09, 'phone': 'k_I'}, {'duration': 0.08, 'phone': 'ih_I'}, {'duration': 0.31, 'phone': 'ng_E'}]",50.5,401,biking
+80,86,80,for,8.23507,for,success,51.72,411,"[{'duration': 0.19, 'phone': 'f_B'}, {'duration': 0.15, 'phone': 'ao_I'}, {'duration': 0.13, 'phone': 'r_E'}]",51.25,408,for
+81,87,81,its,6.985010000000001,its,success,51.999999,415,"[{'duration': 0.11, 'phone': 'ih_B'}, {'duration': 0.06, 'phone': 't_I'}, {'duration': 0.11, 'phone': 's_E'}]",51.719999,412,its
+82,88,82,sense,12.9265,sense,success,52.28000000000001,421,"[{'duration': 0.08, 'phone': 's_B'}, {'duration': 0.06, 'phone': 'eh_I'}, {'duration': 0.08, 'phone': 'n_I'}, {'duration': 0.05, 'phone': 's_E'}]",52.010000000000005,416,sense
+83,89,83,of,1.33585,of,success,52.399999,424,"[{'duration': 0.06, 'phone': 'ah_B'}, {'duration': 0.06, 'phone': 'v_E'}]",52.279999000000004,422,of
+84,90,84,adventure,14.9515,adventure,success,53.019999999999996,434,"[{'duration': 0.07, 'phone': 'ah_B'}, {'duration': 0.05, 'phone': 'd_I'}, {'duration': 0.08, 'phone': 'v_I'}, {'duration': 0.06, 'phone': 'eh_I'}, {'duration': 0.08, 'phone': 'n_I'}, {'duration': 0.12, 'phone': 'ch_I'}, {'duration': 0.16, 'phone': 'er_E'}]",52.4,425,adventure
+85,92,85,for,6.9299,for,success,53.319999,439,"[{'duration': 0.12, 'phone': 'f_B'}, {'duration': 0.02, 'phone': 'r_I'}, {'duration': 0.15, 'phone': 'er_E'}]",53.029999000000004,436,for
+86,93,86,getting,12.9071,getting,success,54.15,447,"[{'duration': 0.1, 'phone': 'g_B'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.01, 'phone': 't_I'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 'ng_E'}]",53.85,440,getting
+87,94,87,a,3.5104800000000003,a,success,54.21,449,"[{'duration': 0.06, 'phone': 'ah_S'}]",54.15,448,a
+88,95,88,little,6.323230000000001,little,success,54.429998999999995,456,"[{'duration': 0.08, 'phone': 'l_B'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.01, 'phone': 't_I'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.03, 'phone': 'l_E'}]",54.209998999999996,450,little
+89,96,89,bit,4.1869,bit,success,54.589999999999996,460,"[{'duration': 0.07, 'phone': 'b_B'}, {'duration': 0.08, 'phone': 'ih_I'}, {'duration': 0.01, 'phone': 't_E'}]",54.43,457,bit
+90,97,90,lost,13.6148,lost,success,55.25,465,"[{'duration': 0.18, 'phone': 'l_B'}, {'duration': 0.14, 'phone': 'ao_I'}, {'duration': 0.16, 'phone': 's_I'}, {'duration': 0.16, 'phone': 't_E'}]",54.61,461,lost
+91,98,91,in,4.8157,in,success,57.57,468,"[{'duration': 0.08, 'phone': 'ih_B'}, {'duration': 0.05, 'phone': 'n_E'}]",57.44,466,in
+92,99,92,a,3.75849,a,success,57.62,470,"[{'duration': 0.05, 'phone': 'ah_S'}]",57.57,469,a
+93,100,93,new,7.55831,new,success,57.82,474,"[{'duration': 0.06, 'phone': 'n_B'}, {'duration': 0.07, 'phone': 'y_I'}, {'duration': 0.07, 'phone': 'uw_E'}]",57.62,471,new
+94,101,94,place,9.53306,place,success,58.28,480,"[{'duration': 0.09, 'phone': 'p_B'}, {'duration': 0.08, 'phone': 'l_I'}, {'duration': 0.09, 'phone': 'ey_I'}, {'duration': 0.19, 'phone': 's_E'}]",57.83,475,place
+95,103,95,that,16.535999999999998,that's,success,59.400000000000006,488,"[{'duration': 0.12, 'phone': 'dh_B'}, {'duration': 0.03, 'phone': 'ae_I'}, {'duration': 0.05, 'phone': 't_I'}, {'duration': 0.07, 'phone': 's_E'}]",59.13,482,That's
+96,104,95,'s,9.75474,that's,success,59.400000000000006,488,"[{'duration': 0.12, 'phone': 'dh_B'}, {'duration': 0.03, 'phone': 'ae_I'}, {'duration': 0.05, 'phone': 't_I'}, {'duration': 0.07, 'phone': 's_E'}]",59.13,482,That's
+97,105,96,one,7.901610000000001,one,success,59.58,492,"[{'duration': 0.06, 'phone': 'w_B'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 'n_E'}]",59.41,489,one
+98,106,97,thing,3.00035,thing,success,59.79,498,"[{'duration': 0.05, 'phone': 'th_B'}, {'duration': 0.08, 'phone': 'ih_I'}, {'duration': 0.08, 'phone': 'ng_E'}]",59.58,493,thing
+99,107,98,i,2.00454,i,success,59.88,500,"[{'duration': 0.09, 'phone': 'ay_S'}]",59.79,499,I
+100,108,99,really,9.0362,really,success,60.09,507,"[{'duration': 0.03, 'phone': 'r_B'}, {'duration': 0.06, 'phone': 'iy_I'}, {'duration': 0.06, 'phone': 'l_I'}, {'duration': 0.06, 'phone': 'iy_E'}]",59.88,501,really
+101,109,100,like,5.995,like,success,60.38,512,"[{'duration': 0.09, 'phone': 'l_B'}, {'duration': 0.09, 'phone': 'ay_I'}, {'duration': 0.11, 'phone': 'k_E'}]",60.09,508,like
+102,110,101,and,9.21959,and,success,60.52,516,"[{'duration': 0.06, 'phone': 'ah_B'}, {'duration': 0.04, 'phone': 'n_I'}, {'duration': 0.04, 'phone': 'd_E'}]",60.38,513,and
+103,111,102,i,10.3186,i,success,60.87,518,"[{'duration': 0.35, 'phone': 'ay_S'}]",60.519999999999996,517,I
+104,112,103,still,7.71172,still,success,61.150000000000006,524,"[{'duration': 0.09, 'phone': 's_B'}, {'duration': 0.04, 'phone': 't_I'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 'l_E'}]",60.88,519,still
+105,113,104,miss,6.943010000000001,miss,success,61.629999999999995,529,"[{'duration': 0.1, 'phone': 'm_B'}, {'duration': 0.12, 'phone': 'ih_I'}, {'duration': 0.26, 'phone': 's_E'}]",61.15,525,miss
+106,115,105,even,9.03609,even,success,62.029999999999994,535,"[{'duration': 0.08, 'phone': 'iy_B'}, {'duration': 0.07, 'phone': 'v_I'}, {'duration': 0.03, 'phone': 'ih_I'}, {'duration': 0.05, 'phone': 'n_E'}]",61.8,531,even
+107,116,106,though,2.2019900000000003,though,success,62.15,542,"[{'duration': 0.06, 'phone': 'dh_B'}, {'duration': 0.06, 'phone': 'ow_E'}]",62.03,536,though
+108,117,107,i,7.800619999999999,i'm,success,62.309999999999995,546,"[{'duration': 0.07, 'phone': 'ay_B'}, {'duration': 0.09, 'phone': 'm_E'}]",62.15,543,I'm
+109,118,107,'m,6.53704,i'm,success,62.309999999999995,546,"[{'duration': 0.07, 'phone': 'ay_B'}, {'duration': 0.09, 'phone': 'm_E'}]",62.15,543,I'm
+110,119,108,biking,19.3269,biking,success,62.679998999999995,553,"[{'duration': 0.07, 'phone': 'b_B'}, {'duration': 0.08, 'phone': 'ay_I'}, {'duration': 0.07, 'phone': 'k_I'}, {'duration': 0.08, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 'ng_E'}]",62.309999,547,biking
+111,120,109,inside,12.7027,inside,success,63.279999000000004,560,"[{'duration': 0.06, 'phone': 'ih_B'}, {'duration': 0.09, 'phone': 'n_I'}, {'duration': 0.12, 'phone': 's_I'}, {'duration': 0.16, 'phone': 'ay_I'}, {'duration': 0.17, 'phone': 'd_E'}]",62.679999,554,inside
+112,121,110,on,10.6204,on,success,65.17999999999999,563,"[{'duration': 0.23, 'phone': 'aa_B'}, {'duration': 0.13, 'phone': 'n_E'}]",64.82,561,on
+113,122,111,<unk>,6.00972,<unk>,success,65.7,569,"[{'duration': 0.51, 'phone': 'oov_S'}]",65.19,564,Zwift
+114,124,112,so,18.6993,so,success,68.12,573,"[{'duration': 0.08, 'phone': 's_B'}, {'duration': 0.04, 'phone': 'ow_E'}]",68.0,571,So
+115,125,113,i,7.69263,i,success,68.17,575,"[{'duration': 0.05, 'phone': 'ay_S'}]",68.12,574,I
+116,126,114,<unk>,6.51777,<unk>,success,68.59,580,"[{'duration': 0.23, 'phone': 'oov_S'}]",68.36,576,jhad
+117,127,115,the,4.6269800000000005,the,success,69.22999999999999,584,"[{'duration': 0.03, 'phone': 'dh_B'}, {'duration': 0.16, 'phone': 'ah_E'}]",69.03999999999999,581,the
+118,128,116,just,15.0016,just,success,69.81999900000001,589,"[{'duration': 0.09, 'phone': 'jh_B'}, {'duration': 0.06, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 's_I'}, {'duration': 0.05, 'phone': 't_E'}]",69.559999,585,just
+119,129,117,sudden,17.8979,sudden,success,70.14999999999999,596,"[{'duration': 0.1, 'phone': 's_B'}, {'duration': 0.11, 'phone': 'ah_I'}, {'duration': 0.01, 'phone': 'd_I'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 'n_E'}]",69.83,590,sudden
+120,130,118,thought,13.322,thought,success,70.35000000000001,604,"[{'duration': 0.07, 'phone': 'th_B'}, {'duration': 0.08, 'phone': 'ao_I'}, {'duration': 0.05, 'phone': 't_E'}]",70.15,597,thought
+121,131,119,of,4.40126,of,success,70.55999999999999,607,"[{'duration': 0.06, 'phone': 'ah_B'}, {'duration': 0.15, 'phone': 'v_E'}]",70.35,605,of
+122,132,120,that,8.07285,that,success,70.78,612,"[{'duration': 0.08, 'phone': 'dh_B'}, {'duration': 0.05, 'phone': 'ae_I'}, {'duration': 0.05, 'phone': 't_E'}]",70.6,608,that
+123,133,121,as,12.2768,as,success,70.919999,615,"[{'duration': 0.06, 'phone': 'eh_B'}, {'duration': 0.08, 'phone': 'z_E'}]",70.779999,613,as
+124,134,122,a,2.41866,a,success,71.069999,617,"[{'duration': 0.11, 'phone': 'ah_S'}]",70.959999,616,a
+125,135,123,theme,12.1932,theme,success,71.5,623,"[{'duration': 0.13, 'phone': 'th_B'}, {'duration': 0.11, 'phone': 'iy_I'}, {'duration': 0.19, 'phone': 'm_E'}]",71.07,618,theme
+126,137,124,as,7.772019999999999,as,success,71.83000000000001,627,"[{'duration': 0.1, 'phone': 'ae_B'}, {'duration': 0.08, 'phone': 'z_E'}]",71.65,625,as
+127,138,125,a,4.1904,a,success,71.92,629,"[{'duration': 0.09, 'phone': 'ey_S'}]",71.83,628,a
+128,139,126,yearly,14.1306,yearly,success,72.24,636,"[{'duration': 0.06, 'phone': 'y_B'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.05, 'phone': 'r_I'}, {'duration': 0.06, 'phone': 'l_I'}, {'duration': 0.09, 'phone': 'iy_E'}]",71.92,630,yearly
+129,140,127,theme,14.5023,theme,success,72.67,642,"[{'duration': 0.1, 'phone': 'th_B'}, {'duration': 0.07, 'phone': 'iy_I'}, {'duration': 0.25, 'phone': 'm_E'}]",72.25,637,theme
+130,142,128,year,15.9059,year,success,73.36999999999999,648,"[{'duration': 0.14, 'phone': 'y_B'}, {'duration': 0.08, 'phone': 'ih_I'}, {'duration': 0.05, 'phone': 'r_E'}]",73.1,644,year
+131,143,129,of,3.72336,of,success,73.55000000000001,651,"[{'duration': 0.02, 'phone': 'ah_B'}, {'duration': 0.16, 'phone': 'v_E'}]",73.37,649,of
+132,144,130,adventure,14.5771,adventure,success,74.09,661,"[{'duration': 0.05, 'phone': 'ah_B'}, {'duration': 0.05, 'phone': 'd_I'}, {'duration': 0.06, 'phone': 'v_I'}, {'duration': 0.06, 'phone': 'eh_I'}, {'duration': 0.07, 'phone': 'n_I'}, {'duration': 0.11, 'phone': 'ch_I'}, {'duration': 0.14, 'phone': 'er_E'}]",73.55,652,adventure
+133,146,131,and,9.35971,and,success,75.65,666,"[{'duration': 0.12, 'phone': 'ah_B'}, {'duration': 0.14, 'phone': 'n_I'}, {'duration': 0.19, 'phone': 'd_E'}]",75.2,663,And
+134,147,132,i,9.9676,i,success,75.80999999999999,668,"[{'duration': 0.1, 'phone': 'ay_S'}]",75.71,667,I
+135,148,133,got,6.45481,got,success,76.05,672,"[{'duration': 0.06, 'phone': 'g_B'}, {'duration': 0.06, 'phone': 'aa_I'}, {'duration': 0.12, 'phone': 't_E'}]",75.81,669,got
+136,149,134,really,9.48645,really,success,76.42999999999999,679,"[{'duration': 0.11, 'phone': 'r_B'}, {'duration': 0.1, 'phone': 'iy_I'}, {'duration': 0.09, 'phone': 'l_I'}, {'duration': 0.08, 'phone': 'iy_E'}]",76.05,673,really
+137,150,135,excited,8.56221,excited,success,76.85000000000001,687,"[{'duration': 0.06, 'phone': 'ih_B'}, {'duration': 0.05, 'phone': 'k_I'}, {'duration': 0.07, 'phone': 's_I'}, {'duration': 0.06, 'phone': 'ay_I'}, {'duration': 0.05, 'phone': 't_I'}, {'duration': 0.07, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 'd_E'}]",76.43,680,excited
+138,151,136,in,6.70708,in,success,76.97,690,"[{'duration': 0.05, 'phone': 'ih_B'}, {'duration': 0.07, 'phone': 'n_E'}]",76.85,688,in
+139,152,137,that,8.41107,that,success,77.12,695,"[{'duration': 0.04, 'phone': 'dh_B'}, {'duration': 0.04, 'phone': 'ae_I'}, {'duration': 0.07, 'phone': 't_E'}]",76.97,691,that
+140,153,138,moment,9.12237,moment,success,77.4,702,"[{'duration': 0.05, 'phone': 'm_B'}, {'duration': 0.07, 'phone': 'ow_I'}, {'duration': 0.04, 'phone': 'm_I'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.04, 'phone': 'n_I'}, {'duration': 0.03, 'phone': 't_E'}]",77.12,696,moment
+141,155,139,that,6.3767,that,success,77.56,707,"[{'duration': 0.01, 'phone': 'dh_B'}, {'duration': 0.07, 'phone': 'ah_I'}, {'duration': 0.08, 'phone': 't_E'}]",77.4,703,that
+142,156,140,sounded,13.3584,sounded,success,77.92,715,"[{'duration': 0.08, 'phone': 's_B'}, {'duration': 0.06, 'phone': 'aw_I'}, {'duration': 0.05, 'phone': 'n_I'}, {'duration': 0.03, 'phone': 'd_I'}, {'duration': 0.05, 'phone': 'ih_I'}, {'duration': 0.09, 'phone': 'd_E'}]",77.56,708,sounded
+143,157,141,so,4.7255400000000005,so,success,78.12,718,"[{'duration': 0.11, 'phone': 's_B'}, {'duration': 0.09, 'phone': 'ow_E'}]",77.92,716,so
+144,158,142,nice,11.9224,nice,success,78.68,723,"[{'duration': 0.11, 'phone': 'n_B'}, {'duration': 0.16, 'phone': 'ay_I'}, {'duration': 0.29, 'phone': 's_E'}]",78.12,719,nice
+145,160,143,there,14.6911,there,success,80.56,730,"[{'duration': 0.14, 'phone': 'dh_B'}, {'duration': 0.04, 'phone': 'eh_I'}, {'duration': 0.04, 'phone': 'r_E'}]",80.34,725,There
+146,161,144,was,3.81279,was,success,80.699999,734,"[{'duration': 0.05, 'phone': 'w_B'}, {'duration': 0.01, 'phone': 'ah_I'}, {'duration': 0.08, 'phone': 'z_E'}]",80.559999,731,was
+147,162,145,the,6.1525300000000005,the,success,80.97000000000001,738,"[{'duration': 0.07, 'phone': 'dh_B'}, {'duration': 0.19, 'phone': 'ah_E'}]",80.71000000000001,735,the
+148,163,146,kind,11.5309,kind,success,81.71000000000001,743,"[{'duration': 0.06, 'phone': 'k_B'}, {'duration': 0.05, 'phone': 'ay_I'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.06, 'phone': 'd_E'}]",81.53,739,kind
+149,164,147,of,0.213469,of,success,81.85000000000001,746,"[{'duration': 0.06, 'phone': 'ah_B'}, {'duration': 0.08, 'phone': 'v_E'}]",81.71000000000001,744,of
+150,165,148,related,13.9934,related,success,82.259999,754,"[{'duration': 0.01, 'phone': 'r_B'}, {'duration': 0.08, 'phone': 'iy_I'}, {'duration': 0.06, 'phone': 'l_I'}, {'duration': 0.07, 'phone': 'ey_I'}, {'duration': 0.04, 'phone': 't_I'}, {'duration': 0.06, 'phone': 'ah_I'}, {'duration': 0.09, 'phone': 'd_E'}]",81.849999,747,related
+151,166,149,idea,10.625,idea,success,83.0,759,"[{'duration': 0.11, 'phone': 'ay_B'}, {'duration': 0.08, 'phone': 'd_I'}, {'duration': 0.12, 'phone': 'iy_I'}, {'duration': 0.06, 'phone': 'ah_E'}]",82.63,755,idea
+152,167,150,of,3.26333,of,success,83.25,762,"[{'duration': 0.09, 'phone': 'ah_B'}, {'duration': 0.16, 'phone': 'v_E'}]",83.0,760,of
+153,168,151,year,14.2743,year,success,83.76,767,"[{'duration': 0.23, 'phone': 'y_B'}, {'duration': 0.09, 'phone': 'ih_I'}, {'duration': 0.08, 'phone': 'r_E'}]",83.36,763,year
+154,169,152,of,6.81669,of,success,84.07999899999999,770,"[{'duration': 0.07, 'phone': 'ah_B'}, {'duration': 0.25, 'phone': 'v_E'}]",83.759999,768,of
+155,170,153,challenge,16.9835,challenge,success,84.86,780,"[{'duration': 0.19, 'phone': 'ch_B'}, {'duration': 0.08, 'phone': 'ae_I'}, {'duration': 0.07, 'phone': 'l_I'}, {'duration': 0.06, 'phone': 'ah_I'}, {'duration': 0.11, 'phone': 'n_I'}, {'duration': 0.2, 'phone': 'jh_E'}]",84.15,771,challenge
+156,172,154,i,17.9397,i,success,85.809999,783,"[{'duration': 0.09, 'phone': 'ay_S'}]",85.719999,782,I
+157,173,155,just,8.24682,just,success,86.049999,788,"[{'duration': 0.06, 'phone': 'jh_B'}, {'duration': 0.08, 'phone': 'ih_I'}, {'duration': 0.05, 'phone': 's_I'}, {'duration': 0.05, 'phone': 't_E'}]",85.809999,784,just
+158,174,156,feel,6.31332,feel,success,86.249999,793,"[{'duration': 0.08, 'phone': 'f_B'}, {'duration': 0.08, 'phone': 'iy_I'}, {'duration': 0.04, 'phone': 'l_E'}]",86.049999,789,feel
+159,175,157,like,2.65778,like,success,86.4,798,"[{'duration': 0.02, 'phone': 'l_B'}, {'duration': 0.06, 'phone': 'ay_I'}, {'duration': 0.07, 'phone': 'k_E'}]",86.25,794,like
+160,176,158,i,4.45,i'm,success,86.62,802,"[{'duration': 0.07, 'phone': 'ay_B'}, {'duration': 0.15, 'phone': 'm_E'}]",86.4,799,I'm
+161,177,158,'m,5.1432,i'm,success,86.62,802,"[{'duration': 0.07, 'phone': 'ay_B'}, {'duration': 0.15, 'phone': 'm_E'}]",86.4,799,I'm
+162,178,159,in,4.72816,in,success,86.78,805,"[{'duration': 0.07, 'phone': 'ih_B'}, {'duration': 0.08, 'phone': 'n_E'}]",86.63,803,in
+163,179,160,a,2.71022,a,success,86.83,807,"[{'duration': 0.05, 'phone': 'ah_S'}]",86.78,806,a
+164,180,161,place,9.91227,place,success,87.21,813,"[{'duration': 0.1, 'phone': 'p_B'}, {'duration': 0.08, 'phone': 'l_I'}, {'duration': 0.06, 'phone': 'ey_I'}, {'duration': 0.14, 'phone': 's_E'}]",86.83,808,place
+165,181,162,where,2.12171,where,success,87.36999999999999,819,"[{'duration': 0.08, 'phone': 'w_B'}, {'duration': 0.04, 'phone': 'eh_I'}, {'duration': 0.01, 'phone': 'r_E'}]",87.24,814,where
+166,182,163,i,8.18153,i,success,87.45,821,"[{'duration': 0.08, 'phone': 'ay_S'}]",87.37,820,I
+167,183,164,really,7.923080000000001,really,success,87.76,828,"[{'duration': 0.1, 'phone': 'r_B'}, {'duration': 0.08, 'phone': 'iy_I'}, {'duration': 0.07, 'phone': 'l_I'}, {'duration': 0.06, 'phone': 'iy_E'}]",87.45,822,really
+168,184,165,want,4.66241,want,success,88.049999,833,"[{'duration': 0.07, 'phone': 'w_B'}, {'duration': 0.1, 'phone': 'ao_I'}, {'duration': 0.04, 'phone': 'n_I'}, {'duration': 0.08, 'phone': 't_E'}]",87.759999,829,want
+169,185,166,now,12.9659,now,success,88.82,837,"[{'duration': 0.15, 'phone': 'n_B'}, {'duration': 0.18, 'phone': 'aw_E'}]",88.49,834,now
+170,186,167,some,12.0231,some,success,89.00999999999999,842,"[{'duration': 0.07, 'phone': 's_B'}, {'duration': 0.06, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 'm_E'}]",88.82,838,some
+171,187,168,adventure,17.0558,adventure,success,89.58,852,"[{'duration': 0.08, 'phone': 'ah_B'}, {'duration': 0.04, 'phone': 'd_I'}, {'duration': 0.09, 'phone': 'v_I'}, {'duration': 0.07, 'phone': 'eh_I'}, {'duration': 0.07, 'phone': 'n_I'}, {'duration': 0.15, 'phone': 'ch_I'}, {'duration': 0.07, 'phone': 'er_E'}]",89.01,843,adventure
+172,189,169,some,9.30838,some,success,89.86999999999999,858,"[{'duration': 0.08, 'phone': 's_B'}, {'duration': 0.07, 'phone': 'ah_I'}, {'duration': 0.12, 'phone': 'm_E'}]",89.6,854,some
+173,190,170,challenge,15.2546,challenge,success,90.51999900000001,868,"[{'duration': 0.17, 'phone': 'ch_B'}, {'duration': 0.08, 'phone': 'ae_I'}, {'duration': 0.05, 'phone': 'l_I'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.1, 'phone': 'n_I'}, {'duration': 0.2, 'phone': 'jh_E'}]",89.869999,859,challenge
+174,192,171,and,13.8291,and,success,91.24999900000002,873,"[{'duration': 0.01, 'phone': 'ah_B'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.01, 'phone': 'd_E'}]",91.21999900000002,870,And
+175,193,172,that,8.16496,that,success,91.60000000000001,878,"[{'duration': 0.01, 'phone': 'dh_B'}, {'duration': 0.06, 'phone': 'ae_I'}, {'duration': 0.11, 'phone': 't_E'}]",91.42,874,that
+176,194,173,could,10.2676,could,success,92.80999999999999,884,"[{'duration': 0.11, 'phone': 'k_B'}, {'duration': 0.06, 'phone': 'uh_I'}, {'duration': 0.07, 'phone': 'd_E'}]",92.57,879,could
+177,195,174,be,1.41525,be,success,93.41999999999999,887,"[{'duration': 0.08, 'phone': 'b_B'}, {'duration': 0.52, 'phone': 'iy_E'}]",92.82,885,be
+178,197,175,you,11.3188,you,success,93.96000000000001,892,"[{'duration': 0.07, 'phone': 'y_B'}, {'duration': 0.05, 'phone': 'uw_E'}]",93.84,889,you
+179,198,176,know,3.3862300000000003,know,success,94.11,897,"[{'duration': 0.05, 'phone': 'n_B'}, {'duration': 0.1, 'phone': 'ow_E'}]",93.96,893,know
+180,200,177,getting,13.5996,getting,success,94.42,906,"[{'duration': 0.05, 'phone': 'g_B'}, {'duration': 0.08, 'phone': 'ih_I'}, {'duration': 0.01, 'phone': 't_I'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.1, 'phone': 'ng_E'}]",94.11,899,getting
+181,201,178,lost,7.18023,lost,success,94.74,911,"[{'duration': 0.07, 'phone': 'l_B'}, {'duration': 0.09, 'phone': 'ao_I'}, {'duration': 0.09, 'phone': 's_I'}, {'duration': 0.07, 'phone': 't_E'}]",94.42,907,lost
+182,202,179,on,7.4809,on,success,94.87,914,"[{'duration': 0.06, 'phone': 'ao_B'}, {'duration': 0.06, 'phone': 'n_E'}]",94.75,912,on
+183,203,180,a,3.85574,a,success,94.97,916,"[{'duration': 0.1, 'phone': 'ah_S'}]",94.87,915,a
+184,204,181,bike,12.6584,bike,success,95.41000000000001,921,"[{'duration': 0.1, 'phone': 'b_B'}, {'duration': 0.1, 'phone': 'ay_I'}, {'duration': 0.23, 'phone': 'k_E'}]",94.98,917,bike
+185,206,182,but,5.14947,but,success,95.69,926,"[{'duration': 0.07, 'phone': 'b_B'}, {'duration': 0.07, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 't_E'}]",95.49,923,but
+186,207,183,i,7.60345,i,success,95.85,928,"[{'duration': 0.13, 'phone': 'ay_S'}]",95.72,927,I
+187,208,184,think,3.52789,think,success,96.08,934,"[{'duration': 0.09, 'phone': 'th_B'}, {'duration': 0.01, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 'ng_I'}, {'duration': 0.05, 'phone': 'k_E'}]",95.86,929,think
+188,209,185,in,7.317589999999999,in,success,96.17999999999999,937,"[{'duration': 0.05, 'phone': 'ih_B'}, {'duration': 0.05, 'phone': 'n_E'}]",96.08,935,in
+189,210,186,the,3.33585,the,success,96.30000000000001,941,"[{'duration': 0.05, 'phone': 'dh_B'}, {'duration': 0.07, 'phone': 'ah_E'}]",96.18,938,the
+190,211,187,winter,10.0857,winter,success,96.71,948,"[{'duration': 0.05, 'phone': 'w_B'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.05, 'phone': 'n_I'}, {'duration': 0.09, 'phone': 't_I'}, {'duration': 0.16, 'phone': 'er_E'}]",96.3,942,winter
+191,213,188,or,8.06299,or,success,99.19,952,"[{'duration': 0.1, 'phone': 'ao_B'}, {'duration': 0.05, 'phone': 'r_E'}]",99.03999999999999,950,or
+192,214,189,just,8.32297,just,success,99.47,957,"[{'duration': 0.07, 'phone': 'jh_B'}, {'duration': 0.07, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 's_I'}, {'duration': 0.08, 'phone': 't_E'}]",99.19,953,just
+193,215,190,when,9.1078,when,success,99.619999,962,"[{'duration': 0.03, 'phone': 'w_B'}, {'duration': 0.05, 'phone': 'eh_I'}, {'duration': 0.07, 'phone': 'n_E'}]",99.469999,958,when
+194,216,191,i,7.825410000000001,i'm,success,99.69,966,"[{'duration': 0.04, 'phone': 'ay_B'}, {'duration': 0.03, 'phone': 'm_E'}]",99.62,963,I'm
+195,217,191,'m,5.056080000000001,i'm,success,99.69,966,"[{'duration': 0.04, 'phone': 'ay_B'}, {'duration': 0.03, 'phone': 'm_E'}]",99.62,963,I'm
+196,218,192,not,4.94376,not,success,100.0,970,"[{'duration': 0.08, 'phone': 'n_B'}, {'duration': 0.11, 'phone': 'aa_I'}, {'duration': 0.11, 'phone': 't_E'}]",99.7,967,not
+197,219,193,in,5.80748,in,success,100.27,973,"[{'duration': 0.11, 'phone': 'ih_B'}, {'duration': 0.05, 'phone': 'n_E'}]",100.11,971,in
+198,220,194,the,4.10019,the,success,100.38,977,"[{'duration': 0.05, 'phone': 'dh_B'}, {'duration': 0.06, 'phone': 'ah_E'}]",100.27,974,the
+199,221,195,physical,11.9013,physical,success,100.74,986,"[{'duration': 0.08, 'phone': 'f_B'}, {'duration': 0.05, 'phone': 'ih_I'}, {'duration': 0.04, 'phone': 'z_I'}, {'duration': 0.08, 'phone': 'ih_I'}, {'duration': 0.01, 'phone': 'k_I'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.05, 'phone': 'l_E'}]",100.38,978,physical
+200,222,196,context,12.6637,context,success,101.30999999999999,994,"[{'duration': 0.07, 'phone': 'k_B'}, {'duration': 0.07, 'phone': 'aa_I'}, {'duration': 0.08, 'phone': 'n_I'}, {'duration': 0.05, 'phone': 't_I'}, {'duration': 0.09, 'phone': 'eh_I'}, {'duration': 0.08, 'phone': 'k_I'}, {'duration': 0.05, 'phone': 's_I'}, {'duration': 0.08, 'phone': 't_E'}]",100.74,987,context
+201,223,197,i,14.0914,i,success,101.339999,996,"[{'duration': 0.03, 'phone': 'ay_S'}]",101.309999,995,I
+202,224,198,want,7.5641,want,success,101.5,1001,"[{'duration': 0.06, 'phone': 'w_B'}, {'duration': 0.05, 'phone': 'aa_I'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.04, 'phone': 't_E'}]",101.34,997,want
+203,225,199,to,1.83146,to,success,101.58,1004,"[{'duration': 0.01, 'phone': 't_B'}, {'duration': 0.07, 'phone': 'ah_E'}]",101.5,1002,to
+204,226,200,think,9.64095,think,success,101.81,1010,"[{'duration': 0.07, 'phone': 'th_B'}, {'duration': 0.02, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 'ng_I'}, {'duration': 0.08, 'phone': 'k_E'}]",101.58,1005,think
+205,227,201,about,1.62183,about,success,102.05,1016,"[{'duration': 0.01, 'phone': 'ah_B'}, {'duration': 0.07, 'phone': 'b_I'}, {'duration': 0.06, 'phone': 'aw_I'}, {'duration': 0.08, 'phone': 't_E'}]",101.83,1011,about
+206,228,202,mental,13.7944,mental,success,102.499999,1023,"[{'duration': 0.11, 'phone': 'm_B'}, {'duration': 0.06, 'phone': 'eh_I'}, {'duration': 0.05, 'phone': 'n_I'}, {'duration': 0.07, 'phone': 't_I'}, {'duration': 0.07, 'phone': 'ah_I'}, {'duration': 0.04, 'phone': 'l_E'}]",102.099999,1017,mental
+207,229,203,ways,15.1528,ways,success,102.93,1028,"[{'duration': 0.11, 'phone': 'w_B'}, {'duration': 0.15, 'phone': 'ey_I'}, {'duration': 0.17, 'phone': 'z_E'}]",102.5,1024,ways
+208,230,204,to,2.96782,to,success,103.89000000000001,1031,"[{'duration': 0.11, 'phone': 't_B'}, {'duration': 0.07, 'phone': 'ih_E'}]",103.71000000000001,1029,to
+209,231,205,start,10.1766,start,success,104.089999,1037,"[{'duration': 0.05, 'phone': 's_B'}, {'duration': 0.04, 'phone': 't_I'}, {'duration': 0.05, 'phone': 'aa_I'}, {'duration': 0.05, 'phone': 'r_I'}, {'duration': 0.01, 'phone': 't_E'}]",103.889999,1032,start
+210,232,206,adding,16.8095,adding,success,104.48,1044,"[{'duration': 0.09, 'phone': 'ae_B'}, {'duration': 0.04, 'phone': 'd_I'}, {'duration': 0.04, 'phone': 'ih_I'}, {'duration': 0.2, 'phone': 'ng_E'}]",104.11,1038,adding
+211,233,207,back,10.6736,back,success,105.26,1049,"[{'duration': 0.08, 'phone': 'b_B'}, {'duration': 0.12, 'phone': 'ae_I'}, {'duration': 0.14, 'phone': 'k_E'}]",104.92,1045,back
+212,234,208,some,9.25614,some,success,105.51,1054,"[{'duration': 0.07, 'phone': 's_B'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.11, 'phone': 'm_E'}]",105.28,1050,some
+213,235,209,challenge,15.1342,challenge,success,106.049999,1064,"[{'duration': 0.12, 'phone': 'ch_B'}, {'duration': 0.08, 'phone': 'ae_I'}, {'duration': 0.06, 'phone': 'l_I'}, {'duration': 0.09, 'phone': 'ah_I'}, {'duration': 0.1, 'phone': 'n_I'}, {'duration': 0.05, 'phone': 'jh_E'}]",105.549999,1055,challenge
+214,236,210,and,5.21196,and,success,106.189999,1068,"[{'duration': 0.08, 'phone': 'ah_B'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.05, 'phone': 'd_E'}]",106.049999,1065,and
+215,237,211,some,9.15065,some,success,106.300001,1073,"[{'duration': 0.02, 'phone': 's_B'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.04, 'phone': 'm_E'}]",106.190001,1069,some
+216,238,212,adventure,17.3357,adventure,success,106.909999,1083,"[{'duration': 0.07, 'phone': 'ah_B'}, {'duration': 0.01, 'phone': 'd_I'}, {'duration': 0.08, 'phone': 'v_I'}, {'duration': 0.08, 'phone': 'eh_I'}, {'duration': 0.08, 'phone': 'n_I'}, {'duration': 0.12, 'phone': 'ch_I'}, {'duration': 0.17, 'phone': 'er_E'}]",106.299999,1074,adventure
+217,240,213,some,9.30838,some,success,107.66999899999999,1089,"[{'duration': 0.08, 'phone': 's_B'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.08, 'phone': 'm_E'}]",107.459999,1085,some
+218,241,214,things,12.8819,things,success,108.0,1096,"[{'duration': 0.08, 'phone': 'th_B'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.1, 'phone': 'ng_I'}, {'duration': 0.07, 'phone': 'z_E'}]",107.68,1090,things
+219,242,215,that,3.61433,that,success,108.2,1101,"[{'duration': 0.04, 'phone': 'dh_B'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.1, 'phone': 't_E'}]",108.01,1097,that
+220,243,216,feel,15.5565,feel,success,109.08,1106,"[{'duration': 0.2, 'phone': 'f_B'}, {'duration': 0.1, 'phone': 'iy_I'}, {'duration': 0.04, 'phone': 'l_E'}]",108.74,1102,feel
+221,244,217,like,5.26345,like,success,109.3,1111,"[{'duration': 0.07, 'phone': 'l_B'}, {'duration': 0.09, 'phone': 'ay_I'}, {'duration': 0.06, 'phone': 'k_E'}]",109.08,1107,like
+222,245,218,that,5.78259,that,success,109.86,1116,"[{'duration': 0.06, 'phone': 'dh_B'}, {'duration': 0.03, 'phone': 'ah_I'}, {'duration': 0.05, 'phone': 't_E'}]",109.72,1112,that
+223,246,219,same,10.7299,same,success,109.91,1121,"[{'duration': 0.03, 'phone': 's_B'}, {'duration': 0.01, 'phone': 'ey_I'}, {'duration': 0.01, 'phone': 'm_E'}]",109.86,1117,same
+224,247,220,kind,9.46642,kind,success,110.25,1126,"[{'duration': 0.05, 'phone': 'k_B'}, {'duration': 0.05, 'phone': 'ay_I'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.06, 'phone': 'd_E'}]",110.08,1122,kind
+225,248,221,of,1.33585,of,success,110.37,1129,"[{'duration': 0.05, 'phone': 'ah_B'}, {'duration': 0.07, 'phone': 'v_E'}]",110.25,1127,of
+226,249,222,adventure,14.0012,adventure,success,110.85000000000001,1139,"[{'duration': 0.04, 'phone': 'ah_B'}, {'duration': 0.03, 'phone': 'd_I'}, {'duration': 0.06, 'phone': 'v_I'}, {'duration': 0.06, 'phone': 'eh_I'}, {'duration': 0.07, 'phone': 'n_I'}, {'duration': 0.1, 'phone': 'ch_I'}, {'duration': 0.12, 'phone': 'er_E'}]",110.37,1130,adventure
+227,251,223,it,11.52,it's,success,113.71000000000001,1145,"[{'duration': 0.01, 'phone': 'ih_B'}, {'duration': 0.01, 'phone': 't_I'}, {'duration': 0.01, 'phone': 's_E'}]",113.68,1141,It's
+228,252,223,'s,7.37743,it's,success,113.71000000000001,1145,"[{'duration': 0.01, 'phone': 'ih_B'}, {'duration': 0.01, 'phone': 't_I'}, {'duration': 0.01, 'phone': 's_E'}]",113.68,1141,It's
+229,253,224,just,6.46583,just,success,114.14999999999999,1150,"[{'duration': 0.14, 'phone': 'jh_B'}, {'duration': 0.01, 'phone': 'ah_I'}, {'duration': 0.04, 'phone': 's_I'}, {'duration': 0.08, 'phone': 't_E'}]",113.88,1146,just
+230,254,225,an,6.99406,an,success,114.31,1153,"[{'duration': 0.07, 'phone': 'ah_B'}, {'duration': 0.09, 'phone': 'n_E'}]",114.15,1151,an
+231,255,226,aspiration,14.1585,aspiration,success,115.06,1164,"[{'duration': 0.09, 'phone': 'ae_B'}, {'duration': 0.09, 'phone': 's_I'}, {'duration': 0.08, 'phone': 'p_I'}, {'duration': 0.09, 'phone': 'er_I'}, {'duration': 0.09, 'phone': 'ey_I'}, {'duration': 0.07, 'phone': 'sh_I'}, {'duration': 0.06, 'phone': 'ah_I'}, {'duration': 0.13, 'phone': 'n_E'}]",114.36,1154,aspiration
+232,256,227,that,6.693389999999999,that,success,115.27,1169,"[{'duration': 0.02, 'phone': 'dh_B'}, {'duration': 0.09, 'phone': 'ah_I'}, {'duration': 0.09, 'phone': 't_E'}]",115.07,1165,that
+233,257,228,i,8.354230000000001,i,success,115.57,1171,"[{'duration': 0.11, 'phone': 'ay_S'}]",115.46,1170,I
+234,258,229,felt,7.954960000000001,felt,success,115.78999999999999,1176,"[{'duration': 0.07, 'phone': 'f_B'}, {'duration': 0.05, 'phone': 'eh_I'}, {'duration': 0.05, 'phone': 'l_I'}, {'duration': 0.05, 'phone': 't_E'}]",115.57,1172,felt
+235,259,230,pretty,13.7019,pretty,success,116.02,1183,"[{'duration': 0.07, 'phone': 'p_B'}, {'duration': 0.01, 'phone': 'r_I'}, {'duration': 0.02, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 't_I'}, {'duration': 0.03, 'phone': 'iy_E'}]",115.82,1177,pretty
+236,260,231,strongly,14.3127,strongly,success,116.44,1192,"[{'duration': 0.07, 'phone': 's_B'}, {'duration': 0.06, 'phone': 't_I'}, {'duration': 0.05, 'phone': 'r_I'}, {'duration': 0.07, 'phone': 'ao_I'}, {'duration': 0.06, 'phone': 'ng_I'}, {'duration': 0.06, 'phone': 'l_I'}, {'duration': 0.05, 'phone': 'iy_E'}]",116.02,1184,strongly
+237,261,232,about,8.94165,about,success,116.81,1198,"[{'duration': 0.05, 'phone': 'ah_B'}, {'duration': 0.09, 'phone': 'b_I'}, {'duration': 0.12, 'phone': 'aw_I'}, {'duration': 0.11, 'phone': 't_E'}]",116.44,1193,about
+238,262,233,on,10.1127,on,success,117.47999999999999,1201,"[{'duration': 0.11, 'phone': 'ao_B'}, {'duration': 0.08, 'phone': 'n_E'}]",117.28999999999999,1199,on
+239,263,234,that,8.40387,that,success,117.68,1206,"[{'duration': 0.06, 'phone': 'dh_B'}, {'duration': 0.05, 'phone': 'ae_I'}, {'duration': 0.09, 'phone': 't_E'}]",117.48,1202,that
+240,264,235,walk,16.6823,walk,success,118.129999,1211,"[{'duration': 0.08, 'phone': 'w_B'}, {'duration': 0.13, 'phone': 'ao_I'}, {'duration': 0.24, 'phone': 'k_E'}]",117.679999,1207,walk
+241,268,236,and,9.65955,and,success,118.42999999999999,1220,"[{'duration': 0.07, 'phone': 'ah_B'}, {'duration': 0.02, 'phone': 'n_I'}, {'duration': 0.05, 'phone': 'd_E'}]",118.28999999999999,1217,And
+242,269,237,that,4.98016,that,success,118.569999,1225,"[{'duration': 0.01, 'phone': 'dh_B'}, {'duration': 0.05, 'phone': 'ae_I'}, {'duration': 0.08, 'phone': 't_E'}]",118.429999,1221,that
+243,270,238,just,14.0508,just,success,118.67999999999999,1230,"[{'duration': 0.01, 'phone': 'jh_B'}, {'duration': 0.01, 'phone': 'ah_I'}, {'duration': 0.01, 'phone': 's_I'}, {'duration': 0.08, 'phone': 't_E'}]",118.57,1226,just
+244,271,239,triggered,16.8754,triggered,success,119.11,1240,"[{'duration': 0.11, 'phone': 't_B'}, {'duration': 0.04, 'phone': 'r_I'}, {'duration': 0.04, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 'g_I'}, {'duration': 0.04, 'phone': 'er_I'}, {'duration': 0.04, 'phone': 'd_E'}]",118.78,1231,triggered
+245,272,240,a,2.80639,a,success,119.13,1242,"[{'duration': 0.02, 'phone': 'ah_S'}]",119.11,1241,a
+246,273,241,lot,9.69089,lot,success,119.3,1246,"[{'duration': 0.08, 'phone': 'l_B'}, {'duration': 0.07, 'phone': 'ao_I'}, {'duration': 0.02, 'phone': 't_E'}]",119.13,1243,lot
+247,274,242,of,1.20634,of,success,119.39999999999999,1249,"[{'duration': 0.01, 'phone': 'ah_B'}, {'duration': 0.09, 'phone': 'v_E'}]",119.3,1247,of
+248,275,243,good,7.555039999999999,good,success,119.7,1254,"[{'duration': 0.06, 'phone': 'g_B'}, {'duration': 0.06, 'phone': 'uh_I'}, {'duration': 0.08, 'phone': 'd_E'}]",119.5,1250,good
+249,276,244,feelings,13.0486,feelings,success,120.27,1263,"[{'duration': 0.17, 'phone': 'f_B'}, {'duration': 0.09, 'phone': 'iy_I'}, {'duration': 0.06, 'phone': 'l_I'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.09, 'phone': 'ng_I'}, {'duration': 0.09, 'phone': 'z_E'}]",119.7,1255,feelings
+250,277,245,so,12.6929,so,success,120.44,1266,"[{'duration': 0.03, 'phone': 's_B'}, {'duration': 0.13, 'phone': 'ow_E'}]",120.28,1264,so
+251,278,246,i,7.69263,i,success,121.25,1268,"[{'duration': 0.09, 'phone': 'ay_S'}]",121.16,1267,I
+252,279,247,just,5.885190000000001,just,success,121.39,1273,"[{'duration': 0.03, 'phone': 'jh_B'}, {'duration': 0.04, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 's_I'}, {'duration': 0.01, 'phone': 't_E'}]",121.25,1269,just
+253,280,248,started,11.1629,started,success,122.14,1281,"[{'duration': 0.2, 'phone': 's_B'}, {'duration': 0.04, 'phone': 't_I'}, {'duration': 0.06, 'phone': 'aa_I'}, {'duration': 0.01, 'phone': 'r_I'}, {'duration': 0.05, 'phone': 't_I'}, {'duration': 0.04, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 'd_E'}]",121.67,1274,started
+254,281,249,noticing,19.7803,noticing,success,122.979999,1290,"[{'duration': 0.07, 'phone': 'n_B'}, {'duration': 0.08, 'phone': 'ow_I'}, {'duration': 0.05, 'phone': 't_I'}, {'duration': 0.04, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 's_I'}, {'duration': 0.1, 'phone': 'ih_I'}, {'duration': 0.43, 'phone': 'ng_E'}]",122.139999,1282,noticing
+255,282,250,positive,14.6579,positive,success,123.47999999999999,1299,"[{'duration': 0.1, 'phone': 'p_B'}, {'duration': 0.09, 'phone': 'aa_I'}, {'duration': 0.03, 'phone': 'z_I'}, {'duration': 0.06, 'phone': 'ah_I'}, {'duration': 0.05, 'phone': 't_I'}, {'duration': 0.02, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 'v_E'}]",123.07,1291,positive
+256,283,251,things,9.71191,things,success,123.79,1306,"[{'duration': 0.07, 'phone': 'th_B'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 'ng_I'}, {'duration': 0.1, 'phone': 'z_E'}]",123.48,1300,things
+257,284,252,around,8.04102,around,success,124.05999999999999,1313,"[{'duration': 0.08, 'phone': 'er_B'}, {'duration': 0.09, 'phone': 'aw_I'}, {'duration': 0.1, 'phone': 'n_E'}]",123.78999999999999,1307,around
+258,285,253,me,10.5191,me,success,124.329999,1316,"[{'duration': 0.07, 'phone': 'm_B'}, {'duration': 0.2, 'phone': 'iy_E'}]",124.059999,1314,me
+259,287,254,i,3.68295,i,success,124.55,1319,"[{'duration': 0.14, 'phone': 'ay_S'}]",124.41,1318,I
+260,288,255,looked,9.56703,looked,success,125.37,1326,"[{'duration': 0.1, 'phone': 'l_B'}, {'duration': 0.07, 'phone': 'uh_I'}, {'duration': 0.06, 'phone': 'k_I'}, {'duration': 0.22, 'phone': 't_E'}]",124.92,1320,looked
+261,289,256,down,5.92138,down,success,125.75999999999999,1331,"[{'duration': 0.09, 'phone': 'd_B'}, {'duration': 0.18, 'phone': 'aw_I'}, {'duration': 0.08, 'phone': 'n_E'}]",125.41,1327,down
+262,290,257,on,1.74511,on,success,125.93,1334,"[{'duration': 0.16, 'phone': 'aa_B'}, {'duration': 0.01, 'phone': 'n_E'}]",125.76,1332,on
+263,291,258,the,4.33585,the,success,126.11,1338,"[{'duration': 0.01, 'phone': 'dh_B'}, {'duration': 0.02, 'phone': 'ah_E'}]",126.08,1335,the
+264,292,259,side,8.55233,side,success,126.429999,1343,"[{'duration': 0.12, 'phone': 's_B'}, {'duration': 0.11, 'phone': 'ay_I'}, {'duration': 0.09, 'phone': 'd_E'}]",126.109999,1339,side
+265,293,260,street,11.8368,street,success,126.74,1350,"[{'duration': 0.05, 'phone': 's_B'}, {'duration': 0.07, 'phone': 't_I'}, {'duration': 0.05, 'phone': 'r_I'}, {'duration': 0.06, 'phone': 'iy_I'}, {'duration': 0.07, 'phone': 't_E'}]",126.44,1344,street
+266,294,261,stem,16.4849,stem,success,127.95,1355,"[{'duration': 0.08, 'phone': 's_B'}, {'duration': 0.07, 'phone': 't_I'}, {'duration': 0.06, 'phone': 'eh_I'}, {'duration': 0.01, 'phone': 'm_E'}]",127.73,1351,stem
+267,295,262,stems,16.0975,stems,success,128.31,1361,"[{'duration': 0.01, 'phone': 's_B'}, {'duration': 0.01, 'phone': 't_I'}, {'duration': 0.01, 'phone': 'eh_I'}, {'duration': 0.14, 'phone': 'm_I'}, {'duration': 0.19, 'phone': 'z_E'}]",127.95,1356,stems
+268,296,263,off,13.5806,off,success,128.70000000000002,1365,"[{'duration': 0.12, 'phone': 'ao_B'}, {'duration': 0.21, 'phone': 'f_E'}]",128.37,1362,off
+269,297,264,the,2.88758,the,success,129.05,1369,"[{'duration': 0.06, 'phone': 'dh_B'}, {'duration': 0.28, 'phone': 'ah_E'}]",128.71,1366,the
+270,298,265,corridor,15.2098,corridor,success,131.29999999999998,1378,"[{'duration': 0.11, 'phone': 'k_B'}, {'duration': 0.07, 'phone': 'ao_I'}, {'duration': 0.03, 'phone': 'r_I'}, {'duration': 0.03, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 'd_I'}, {'duration': 0.27, 'phone': 'er_E'}]",130.73,1370,corridor
+271,299,266,park,13.2196,park,success,132.52,1383,"[{'duration': 0.08, 'phone': 'p_B'}, {'duration': 0.05, 'phone': 'aa_I'}, {'duration': 0.08, 'phone': 'r_I'}, {'duration': 0.19, 'phone': 'k_E'}]",132.12,1379,park
+272,301,267,and,16.3561,and,success,134.29999999999998,1388,"[{'duration': 0.08, 'phone': 'ah_B'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.01, 'phone': 'd_E'}]",134.2,1385,And
+273,302,268,just,11.7618,just,success,134.87,1393,"[{'duration': 0.04, 'phone': 'jh_B'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.15, 'phone': 's_I'}, {'duration': 0.23, 'phone': 't_E'}]",134.4,1389,just
+274,303,269,saw,10.8496,saw,success,135.06,1397,"[{'duration': 0.11, 'phone': 's_B'}, {'duration': 0.07, 'phone': 'ao_E'}]",134.88,1394,saw
+275,304,270,how,9.0775,how,success,135.23,1401,"[{'duration': 0.06, 'phone': 'hh_B'}, {'duration': 0.1, 'phone': 'aw_E'}]",135.07,1398,how
+276,305,271,beautiful,9.66316,beautiful,success,135.73999999999998,1411,"[{'duration': 0.06, 'phone': 'b_B'}, {'duration': 0.09, 'phone': 'y_I'}, {'duration': 0.08, 'phone': 'uw_I'}, {'duration': 0.03, 'phone': 't_I'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.12, 'phone': 'f_I'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.04, 'phone': 'l_E'}]",135.23,1402,beautiful
+277,306,272,it,3.78694,it,success,135.76000000000002,1414,"[{'duration': 0.01, 'phone': 'ih_B'}, {'duration': 0.01, 'phone': 't_E'}]",135.74,1412,it
+278,307,273,was,5.04272,was,success,136.11,1418,"[{'duration': 0.08, 'phone': 'w_B'}, {'duration': 0.11, 'phone': 'aa_I'}, {'duration': 0.09, 'phone': 'z_E'}]",135.83,1415,was
+279,308,274,and,11.050999999999998,and,success,136.32000000000002,1422,"[{'duration': 0.07, 'phone': 'ah_B'}, {'duration': 0.05, 'phone': 'n_I'}, {'duration': 0.09, 'phone': 'd_E'}]",136.11,1419,and
+280,309,275,felt,13.8447,felt,success,136.6,1427,"[{'duration': 0.08, 'phone': 'f_B'}, {'duration': 0.07, 'phone': 'eh_I'}, {'duration': 0.05, 'phone': 'l_I'}, {'duration': 0.08, 'phone': 't_E'}]",136.32,1423,felt
+281,310,276,so,7.66971,so,success,136.899999,1430,"[{'duration': 0.09, 'phone': 's_B'}, {'duration': 0.21, 'phone': 'ow_E'}]",136.599999,1428,so
+282,311,277,lucky,12.8836,lucky,success,137.39,1436,"[{'duration': 0.11, 'phone': 'l_B'}, {'duration': 0.07, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 'k_I'}, {'duration': 0.08, 'phone': 'iy_E'}]",137.07,1431,lucky
+283,312,278,still,12.2427,still,success,137.91,1442,"[{'duration': 0.1, 'phone': 's_B'}, {'duration': 0.04, 'phone': 't_I'}, {'duration': 0.04, 'phone': 'ih_I'}, {'duration': 0.08, 'phone': 'l_E'}]",137.65,1437,still
+284,313,279,to,7.742339999999999,to,success,138.06,1445,"[{'duration': 0.06, 'phone': 't_B'}, {'duration': 0.09, 'phone': 'ah_E'}]",137.91,1443,to
+285,314,280,live,10.4962,live,success,138.309999,1450,"[{'duration': 0.08, 'phone': 'l_B'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.1, 'phone': 'v_E'}]",138.059999,1446,live
+286,315,281,here,7.87006,here,success,138.589999,1455,"[{'duration': 0.05, 'phone': 'hh_B'}, {'duration': 0.07, 'phone': 'iy_I'}, {'duration': 0.16, 'phone': 'r_E'}]",138.309999,1451,here
+287,317,282,it,10.8555,it's,success,140.409999,1461,"[{'duration': 0.07, 'phone': 'ih_B'}, {'duration': 0.08, 'phone': 't_I'}, {'duration': 0.16, 'phone': 's_E'}]",140.099999,1457,It's
+288,318,282,'s,7.37743,it's,success,140.409999,1461,"[{'duration': 0.07, 'phone': 'ih_B'}, {'duration': 0.08, 'phone': 't_I'}, {'duration': 0.16, 'phone': 's_E'}]",140.099999,1457,It's
+289,319,283,easy,8.37303,easy,success,140.65,1466,"[{'duration': 0.09, 'phone': 'iy_B'}, {'duration': 0.08, 'phone': 'z_I'}, {'duration': 0.07, 'phone': 'iy_E'}]",140.41,1462,easy
+290,320,284,to,1.07952,to,success,140.69,1469,"[{'duration': 0.03, 'phone': 't_B'}, {'duration': 0.01, 'phone': 'ih_E'}]",140.65,1467,to
+291,321,285,forget,4.81189,forget,success,141.09,1476,"[{'duration': 0.1, 'phone': 'f_B'}, {'duration': 0.06, 'phone': 'er_I'}, {'duration': 0.06, 'phone': 'g_I'}, {'duration': 0.06, 'phone': 'eh_I'}, {'duration': 0.07, 'phone': 't_E'}]",140.74,1470,forget
+292,322,286,sometimes,10.4561,sometimes,success,141.649999,1486,"[{'duration': 0.07, 'phone': 's_B'}, {'duration': 0.07, 'phone': 'ah_I'}, {'duration': 0.08, 'phone': 'm_I'}, {'duration': 0.11, 'phone': 't_I'}, {'duration': 0.08, 'phone': 'ay_I'}, {'duration': 0.08, 'phone': 'm_I'}, {'duration': 0.07, 'phone': 'z_E'}]",141.089999,1477,sometimes
+293,323,287,how,13.1114,how,success,141.79,1490,"[{'duration': 0.06, 'phone': 'hh_B'}, {'duration': 0.08, 'phone': 'aw_E'}]",141.65,1487,how
+294,324,288,beautiful,9.49035,beautiful,success,142.26999999999998,1500,"[{'duration': 0.07, 'phone': 'b_B'}, {'duration': 0.07, 'phone': 'y_I'}, {'duration': 0.07, 'phone': 'uw_I'}, {'duration': 0.03, 'phone': 't_I'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.09, 'phone': 'f_I'}, {'duration': 0.03, 'phone': 'ah_I'}, {'duration': 0.08, 'phone': 'l_E'}]",141.79,1491,beautiful
+295,325,289,the,3.78694,the,success,142.38000000000002,1504,"[{'duration': 0.05, 'phone': 'dh_B'}, {'duration': 0.06, 'phone': 'ah_E'}]",142.27,1501,the
+296,326,290,neighborhood,12.7149,neighborhood,success,142.839999,1517,"[{'duration': 0.07, 'phone': 'n_B'}, {'duration': 0.06, 'phone': 'ey_I'}, {'duration': 0.07, 'phone': 'b_I'}, {'duration': 0.08, 'phone': 'er_I'}, {'duration': 0.07, 'phone': 'hh_I'}, {'duration': 0.06, 'phone': 'uh_I'}, {'duration': 0.05, 'phone': 'd_E'}]",142.379999,1505,neighborhood
+297,327,291,is,4.78575,is,success,143.069999,1520,"[{'duration': 0.01, 'phone': 'ih_B'}, {'duration': 0.08, 'phone': 'z_E'}]",142.979999,1518,is
+298,329,292,and,16.0646,and,success,146.71,1525,"[{'duration': 0.01, 'phone': 'ah_B'}, {'duration': 0.04, 'phone': 'n_I'}, {'duration': 0.01, 'phone': 'd_E'}]",146.65,1522,And
+299,330,293,then,7.904560000000001,then,success,146.82000000000002,1530,"[{'duration': 0.01, 'phone': 'dh_B'}, {'duration': 0.05, 'phone': 'eh_I'}, {'duration': 0.05, 'phone': 'n_E'}]",146.71,1526,then
+300,331,294,i,8.40846,i,success,146.88,1532,"[{'duration': 0.06, 'phone': 'ay_S'}]",146.82,1531,I
+301,332,295,walked,10.1796,walked,success,147.16,1539,"[{'duration': 0.09, 'phone': 'w_B'}, {'duration': 0.08, 'phone': 'ao_I'}, {'duration': 0.1, 'phone': 'k_I'}, {'duration': 0.01, 'phone': 't_E'}]",146.88,1533,walked
+302,333,296,past,5.15618,past,success,147.44,1544,"[{'duration': 0.06, 'phone': 'p_B'}, {'duration': 0.08, 'phone': 'ae_I'}, {'duration': 0.07, 'phone': 's_I'}, {'duration': 0.07, 'phone': 't_E'}]",147.16,1540,past
+303,334,297,a,3.37191,a,success,147.5,1546,"[{'duration': 0.06, 'phone': 'ah_S'}]",147.44,1545,a
+304,335,298,tennis,13.5826,tennis,success,147.87,1553,"[{'duration': 0.08, 'phone': 't_B'}, {'duration': 0.07, 'phone': 'eh_I'}, {'duration': 0.05, 'phone': 'n_I'}, {'duration': 0.08, 'phone': 'ih_I'}, {'duration': 0.09, 'phone': 's_E'}]",147.5,1547,tennis
+305,336,299,court,2.92922,court,success,148.17000000000002,1559,"[{'duration': 0.09, 'phone': 'k_B'}, {'duration': 0.08, 'phone': 'ao_I'}, {'duration': 0.06, 'phone': 'r_I'}, {'duration': 0.07, 'phone': 't_E'}]",147.87,1554,court
+306,337,300,where,9.54413,where,success,148.29,1565,"[{'duration': 0.06, 'phone': 'w_B'}, {'duration': 0.05, 'phone': 'eh_I'}, {'duration': 0.01, 'phone': 'r_E'}]",148.17,1560,where
+307,338,301,i,8.253969999999999,i,success,148.42999999999998,1567,"[{'duration': 0.14, 'phone': 'ay_S'}]",148.29,1566,I
+308,339,302,saw,7.923080000000001,saw,success,148.84,1571,"[{'duration': 0.1, 'phone': 's_B'}, {'duration': 0.31, 'phone': 'ao_E'}]",148.43,1568,saw
+309,340,303,what,6.39058,what,success,149.61,1576,"[{'duration': 0.12, 'phone': 'w_B'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.07, 'phone': 't_E'}]",149.37,1572,what
+310,341,304,seemed,9.02498,seemed,success,149.83,1583,"[{'duration': 0.09, 'phone': 's_B'}, {'duration': 0.05, 'phone': 'iy_I'}, {'duration': 0.07, 'phone': 'm_I'}, {'duration': 0.01, 'phone': 'd_E'}]",149.61,1577,seemed
+311,342,305,like,3.09259,like,success,150.02,1588,"[{'duration': 0.06, 'phone': 'l_B'}, {'duration': 0.06, 'phone': 'ay_I'}, {'duration': 0.06, 'phone': 'k_E'}]",149.84,1584,like
+312,343,306,a,1.19286,a,success,150.12,1590,"[{'duration': 0.1, 'phone': 'ah_S'}]",150.02,1589,a
+313,344,307,coach,13.2675,coach,success,150.66,1596,"[{'duration': 0.1, 'phone': 'k_B'}, {'duration': 0.13, 'phone': 'ow_I'}, {'duration': 0.27, 'phone': 'ch_E'}]",150.16,1591,coach
+314,346,308,working,8.26413,working,success,151.04,1605,"[{'duration': 0.09, 'phone': 'w_B'}, {'duration': 0.05, 'phone': 'er_I'}, {'duration': 0.06, 'phone': 'k_I'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.08, 'phone': 'ng_E'}]",150.7,1598,working
+315,347,309,with,2.68683,with,success,151.25,1610,"[{'duration': 0.05, 'phone': 'w_B'}, {'duration': 0.04, 'phone': 'ih_I'}, {'duration': 0.12, 'phone': 'th_E'}]",151.04,1606,with
+316,348,310,two,8.69086,two,success,151.74,1614,"[{'duration': 0.11, 'phone': 't_B'}, {'duration': 0.33, 'phone': 'uw_E'}]",151.3,1611,two
+317,349,311,adult,13.3039,adult,success,153.57,1620,"[{'duration': 0.08, 'phone': 'ah_B'}, {'duration': 0.06, 'phone': 'd_I'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 'l_I'}, {'duration': 0.07, 'phone': 't_E'}]",153.25,1615,adult
+318,350,312,tennis,15.8641,tennis,success,154.52,1627,"[{'duration': 0.09, 'phone': 't_B'}, {'duration': 0.05, 'phone': 'eh_I'}, {'duration': 0.03, 'phone': 'n_I'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.19, 'phone': 's_E'}]",154.09,1621,tennis
+319,351,313,students,13.4632,students,success,154.81,1636,"[{'duration': 0.1, 'phone': 's_B'}, {'duration': 0.08, 'phone': 't_I'}, {'duration': 0.05, 'phone': 'uw_I'}, {'duration': 0.01, 'phone': 'd_I'}, {'duration': 0.01, 'phone': 'ah_I'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.01, 'phone': 't_I'}, {'duration': 0.01, 'phone': 's_E'}]",154.53,1628,students
+320,353,314,and,16.3216,and,success,155.009999,1641,"[{'duration': 0.06, 'phone': 'ah_B'}, {'duration': 0.05, 'phone': 'n_I'}, {'duration': 0.09, 'phone': 'd_E'}]",154.809999,1638,And
+321,354,315,i,9.9676,i,success,158.33,1643,"[{'duration': 0.09, 'phone': 'ay_S'}]",158.24,1642,I
+322,355,316,just,6.19919,just,success,158.57000000000002,1648,"[{'duration': 0.08, 'phone': 'jh_B'}, {'duration': 0.07, 'phone': 'ah_I'}, {'duration': 0.05, 'phone': 's_I'}, {'duration': 0.04, 'phone': 't_E'}]",158.33,1644,just
+323,356,317,got,6.94517,got,success,158.82,1652,"[{'duration': 0.06, 'phone': 'g_B'}, {'duration': 0.08, 'phone': 'aa_I'}, {'duration': 0.11, 'phone': 't_E'}]",158.57,1649,got
+324,357,318,kind,16.4095,kind,success,159.42,1657,"[{'duration': 0.1, 'phone': 'k_B'}, {'duration': 0.04, 'phone': 'ay_I'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.04, 'phone': 'd_E'}]",159.23,1653,kind
+325,358,319,of,1.98347,of,success,159.53,1660,"[{'duration': 0.04, 'phone': 'ah_B'}, {'duration': 0.07, 'phone': 'v_E'}]",159.42,1658,of
+326,359,320,excited,17.8081,excited,success,160.28,1668,"[{'duration': 0.05, 'phone': 'ih_B'}, {'duration': 0.08, 'phone': 'k_I'}, {'duration': 0.11, 'phone': 's_I'}, {'duration': 0.11, 'phone': 'ay_I'}, {'duration': 0.05, 'phone': 't_I'}, {'duration': 0.26, 'phone': 'ih_I'}, {'duration': 0.09, 'phone': 'd_E'}]",159.53,1661,excited
+327,360,321,and,5.20367,and,success,160.55999999999997,1672,"[{'duration': 0.08, 'phone': 'ah_B'}, {'duration': 0.08, 'phone': 'n_I'}, {'duration': 0.07, 'phone': 'd_E'}]",160.32999999999998,1669,and
+328,361,322,interested,15.4617,interested,success,161.16,1683,"[{'duration': 0.09, 'phone': 'ih_B'}, {'duration': 0.05, 'phone': 'n_I'}, {'duration': 0.03, 'phone': 't_I'}, {'duration': 0.07, 'phone': 'r_I'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 's_I'}, {'duration': 0.06, 'phone': 't_I'}, {'duration': 0.08, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 'd_E'}]",160.57999999999998,1673,interested
+329,362,323,in,1.24764,in,success,161.29999999999998,1686,"[{'duration': 0.06, 'phone': 'ih_B'}, {'duration': 0.08, 'phone': 'n_E'}]",161.16,1684,in
+330,363,324,human,11.659,human,success,161.589999,1692,"[{'duration': 0.06, 'phone': 'hh_B'}, {'duration': 0.05, 'phone': 'y_I'}, {'duration': 0.06, 'phone': 'uw_I'}, {'duration': 0.01, 'phone': 'm_I'}, {'duration': 0.08, 'phone': 'ah_I'}, {'duration': 0.03, 'phone': 'n_E'}]",161.299999,1687,human
+331,364,325,interaction,8.89813,interaction,success,162.33,1704,"[{'duration': 0.04, 'phone': 'ih_B'}, {'duration': 0.07, 'phone': 'n_I'}, {'duration': 0.09, 'phone': 't_I'}, {'duration': 0.1, 'phone': 'er_I'}, {'duration': 0.1, 'phone': 'ae_I'}, {'duration': 0.09, 'phone': 'k_I'}, {'duration': 0.07, 'phone': 'sh_I'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.14, 'phone': 'n_E'}]",161.59,1693,interaction
+332,365,326,and,4.61341,and,success,163.44,1708,"[{'duration': 0.07, 'phone': 'ah_B'}, {'duration': 0.1, 'phone': 'n_I'}, {'duration': 0.09, 'phone': 'd_E'}]",163.18,1705,and
+333,366,327,doing,12.9749,doing,success,163.78,1714,"[{'duration': 0.1, 'phone': 'd_B'}, {'duration': 0.07, 'phone': 'uw_I'}, {'duration': 0.08, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 'ng_E'}]",163.47,1709,doing
+334,367,328,things,6.712439999999999,things,success,164.08,1721,"[{'duration': 0.07, 'phone': 'th_B'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 'ng_I'}, {'duration': 0.09, 'phone': 'z_E'}]",163.78,1715,things
+335,368,329,like,5.5595300000000005,like,success,164.29000000000002,1726,"[{'duration': 0.07, 'phone': 'l_B'}, {'duration': 0.07, 'phone': 'ay_I'}, {'duration': 0.07, 'phone': 'k_E'}]",164.08,1722,like
+336,369,330,that,3.6874,that,success,164.51,1731,"[{'duration': 0.06, 'phone': 'dh_B'}, {'duration': 0.08, 'phone': 'ae_I'}, {'duration': 0.08, 'phone': 't_E'}]",164.29,1727,that
+337,370,331,being,13.3237,being,success,164.78,1737,"[{'duration': 0.08, 'phone': 'b_B'}, {'duration': 0.06, 'phone': 'iy_I'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 'ng_E'}]",164.52,1732,being
+338,371,332,a,3.3180300000000003,a,success,164.85,1739,"[{'duration': 0.07, 'phone': 'ah_S'}]",164.78,1738,a
+339,372,333,coach,13.2077,coach,success,165.21,1745,"[{'duration': 0.1, 'phone': 'k_B'}, {'duration': 0.14, 'phone': 'ow_I'}, {'duration': 0.12, 'phone': 'ch_E'}]",164.85,1740,coach
+340,373,334,or,7.4966,or,success,165.32000000000002,1748,"[{'duration': 0.11, 'phone': 'er_S'}]",165.21,1746,or
+341,374,335,being,10.1254,being,success,165.65,1754,"[{'duration': 0.08, 'phone': 'b_B'}, {'duration': 0.07, 'phone': 'iy_I'}, {'duration': 0.03, 'phone': 'ih_I'}, {'duration': 0.14, 'phone': 'ng_E'}]",165.33,1749,being
+342,375,336,student,14.3065,student,success,166.20999999999998,1762,"[{'duration': 0.04, 'phone': 's_B'}, {'duration': 0.07, 'phone': 't_I'}, {'duration': 0.1, 'phone': 'uw_I'}, {'duration': 0.01, 'phone': 'd_I'}, {'duration': 0.06, 'phone': 'ah_I'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.22, 'phone': 't_E'}]",165.7,1755,student
+343,377,337,yeah,25.0902,yeah,success,170.38,1768,"[{'duration': 0.11, 'phone': 'y_B'}, {'duration': 0.2, 'phone': 'ae_E'}]",170.07,1764,Yeah
+344,379,338,i,13.4802,i,success,176.01999999999998,1771,"[{'duration': 0.32, 'phone': 'ay_S'}]",175.7,1770,I
+345,380,339,finished,11.5195,finished,success,176.44,1780,"[{'duration': 0.07, 'phone': 'f_B'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 'n_I'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 'sh_I'}, {'duration': 0.1, 'phone': 't_E'}]",176.02,1772,finished
+346,381,340,reciting,19.2705,reciting,success,176.85,1789,"[{'duration': 0.03, 'phone': 'r_B'}, {'duration': 0.06, 'phone': 'iy_I'}, {'duration': 0.09, 'phone': 's_I'}, {'duration': 0.09, 'phone': 'ay_I'}, {'duration': 0.02, 'phone': 't_I'}, {'duration': 0.05, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 'ng_E'}]",176.44,1781,reciting
+347,382,341,my,13.6784,my,success,176.959999,1792,"[{'duration': 0.04, 'phone': 'm_B'}, {'duration': 0.07, 'phone': 'ay_E'}]",176.849999,1790,my
+348,383,342,thoughts,8.82752,thoughts,success,177.32000000000002,1801,"[{'duration': 0.08, 'phone': 'th_B'}, {'duration': 0.11, 'phone': 'ao_I'}, {'duration': 0.09, 'phone': 't_I'}, {'duration': 0.08, 'phone': 's_E'}]",176.96,1793,thoughts
+349,384,343,and,4.5943,and,success,177.42,1805,"[{'duration': 0.05, 'phone': 'ah_B'}, {'duration': 0.02, 'phone': 'n_I'}, {'duration': 0.03, 'phone': 'd_E'}]",177.32,1802,and
+350,385,344,i,10.53,i'm,success,177.53,1809,"[{'duration': 0.04, 'phone': 'ay_B'}, {'duration': 0.07, 'phone': 'm_E'}]",177.42,1806,I'm
+351,386,344,'m,4.30396,i'm,success,177.53,1809,"[{'duration': 0.04, 'phone': 'ay_B'}, {'duration': 0.07, 'phone': 'm_E'}]",177.42,1806,I'm
+352,387,345,just,5.81735,just,success,177.7,1814,"[{'duration': 0.01, 'phone': 'jh_B'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.02, 'phone': 's_I'}, {'duration': 0.07, 'phone': 't_E'}]",177.53,1810,just
+353,388,346,kind,9.78753,kind,success,177.82999999999998,1819,"[{'duration': 0.03, 'phone': 'k_B'}, {'duration': 0.04, 'phone': 'ay_I'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.05, 'phone': 'd_E'}]",177.7,1815,kind
+354,389,347,of,0.203299,of,success,177.91000000000003,1822,"[{'duration': 0.05, 'phone': 'ah_B'}, {'duration': 0.03, 'phone': 'v_E'}]",177.83,1820,of
+355,390,348,<unk>,5.56847,stewing,success,178.35,1830,"[{'duration': 0.1, 'phone': 's_B'}, {'duration': 0.08, 'phone': 't_I'}, {'duration': 0.07, 'phone': 'uw_I'}, {'duration': 0.08, 'phone': 'ih_I'}, {'duration': 0.1, 'phone': 'ng_E'}]",177.92,1823,stewing
+356,391,349,now,12.4114,now,success,178.51999999999998,1834,"[{'duration': 0.08, 'phone': 'n_B'}, {'duration': 0.09, 'phone': 'aw_E'}]",178.35,1831,now
+357,392,350,in,6.50244,in,success,178.70000000000002,1837,"[{'duration': 0.09, 'phone': 'ih_B'}, {'duration': 0.09, 'phone': 'n_E'}]",178.52,1835,in
+358,393,351,the,1.88487,the,success,178.809999,1841,"[{'duration': 0.05, 'phone': 'dh_B'}, {'duration': 0.06, 'phone': 'iy_E'}]",178.699999,1838,the
+359,394,352,idea,13.7738,idea,success,179.149999,1846,"[{'duration': 0.08, 'phone': 'ay_B'}, {'duration': 0.09, 'phone': 'd_I'}, {'duration': 0.1, 'phone': 'iy_I'}, {'duration': 0.07, 'phone': 'ah_E'}]",178.809999,1842,idea
+360,395,353,of,1.07865,of,success,179.48000000000002,1849,"[{'duration': 0.06, 'phone': 'ah_B'}, {'duration': 0.27, 'phone': 'v_E'}]",179.15,1847,of
+361,396,354,having,6.52965,having,success,181.05,1856,"[{'duration': 0.13, 'phone': 'hh_B'}, {'duration': 0.06, 'phone': 'ae_I'}, {'duration': 0.04, 'phone': 'v_I'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.09, 'phone': 'ng_E'}]",180.67000000000002,1850,having
+362,397,355,a,1.9247,a,success,181.15,1858,"[{'duration': 0.09, 'phone': 'ah_S'}]",181.06,1857,a
+363,398,356,personal,9.83297,personal,success,181.719999,1867,"[{'duration': 0.09, 'phone': 'p_B'}, {'duration': 0.08, 'phone': 'er_I'}, {'duration': 0.06, 'phone': 's_I'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.09, 'phone': 'ih_I'}, {'duration': 0.13, 'phone': 'l_E'}]",181.189999,1859,personal
+364,399,357,relationship,5.84395,relationship,success,182.5,1880,"[{'duration': 0.09, 'phone': 'r_B'}, {'duration': 0.07, 'phone': 'iy_I'}, {'duration': 0.06, 'phone': 'l_I'}, {'duration': 0.05, 'phone': 'ey_I'}, {'duration': 0.09, 'phone': 'sh_I'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.08, 'phone': 'n_I'}, {'duration': 0.06, 'phone': 'sh_I'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.13, 'phone': 'p_E'}]",181.77,1868,relationship
+365,401,358,i,10.2754,i,success,182.95,1883,"[{'duration': 0.39, 'phone': 'ay_S'}]",182.56,1882,I
+366,402,359,think,4.59649,think,success,184.13,1889,"[{'duration': 0.08, 'phone': 'th_B'}, {'duration': 0.01, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 'ng_I'}, {'duration': 0.08, 'phone': 'k_E'}]",183.89,1884,think
+367,403,360,i,4.03074,i'd,success,184.29999999999998,1893,"[{'duration': 0.06, 'phone': 'ay_B'}, {'duration': 0.11, 'phone': 'd_E'}]",184.13,1890,I'd
+368,404,360,'d,6.74448,i'd,success,184.29999999999998,1893,"[{'duration': 0.06, 'phone': 'ay_B'}, {'duration': 0.11, 'phone': 'd_E'}]",184.13,1890,I'd
+369,405,361,like,4.55457,like,success,184.47,1898,"[{'duration': 0.04, 'phone': 'l_B'}, {'duration': 0.06, 'phone': 'ay_I'}, {'duration': 0.07, 'phone': 'k_E'}]",184.3,1894,like
+370,406,362,to,0.388592,to,success,184.7,1901,"[{'duration': 0.09, 'phone': 't_B'}, {'duration': 0.14, 'phone': 'ah_E'}]",184.47,1899,to
+371,407,363,get,6.879010000000001,get,success,186.48,1905,"[{'duration': 0.11, 'phone': 'g_B'}, {'duration': 0.07, 'phone': 'eh_I'}, {'duration': 0.1, 'phone': 't_E'}]",186.2,1902,get
+372,408,364,involved,6.29527,involved,success,186.93,1914,"[{'duration': 0.09, 'phone': 'ih_B'}, {'duration': 0.07, 'phone': 'n_I'}, {'duration': 0.06, 'phone': 'v_I'}, {'duration': 0.05, 'phone': 'aa_I'}, {'duration': 0.07, 'phone': 'l_I'}, {'duration': 0.01, 'phone': 'v_I'}, {'duration': 0.09, 'phone': 'd_E'}]",186.49,1906,involved
+373,409,365,in,1.43842,in,success,187.09,1917,"[{'duration': 0.05, 'phone': 'ih_B'}, {'duration': 0.1, 'phone': 'n_E'}]",186.94,1915,in
+374,410,366,some,8.49142,some,success,187.31,1922,"[{'duration': 0.06, 'phone': 's_B'}, {'duration': 0.07, 'phone': 'ah_I'}, {'duration': 0.09, 'phone': 'm_E'}]",187.09,1918,some
+375,411,367,communities,8.94022,communities,success,187.85,1934,"[{'duration': 0.05, 'phone': 'k_B'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.03, 'phone': 'm_I'}, {'duration': 0.06, 'phone': 'y_I'}, {'duration': 0.05, 'phone': 'uw_I'}, {'duration': 0.02, 'phone': 'n_I'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 't_I'}, {'duration': 0.07, 'phone': 'iy_I'}, {'duration': 0.1, 'phone': 'z_E'}]",187.31,1923,communities
+376,412,368,here,14.0924,here,success,188.04999999999998,1939,"[{'duration': 0.06, 'phone': 'hh_B'}, {'duration': 0.07, 'phone': 'iy_I'}, {'duration': 0.07, 'phone': 'r_E'}]",187.85,1935,here
+377,413,369,i,8.170060000000001,i,success,188.14000000000001,1941,"[{'duration': 0.09, 'phone': 'ay_S'}]",188.05,1940,I
+378,414,370,guess,10.2885,guess,success,188.38,1947,"[{'duration': 0.07, 'phone': 'g_B'}, {'duration': 0.07, 'phone': 'eh_I'}, {'duration': 0.09, 'phone': 's_E'}]",188.15,1942,guess
+379,415,371,i,3.11877,i,success,188.51,1949,"[{'duration': 0.13, 'phone': 'ay_S'}]",188.38,1948,I
+380,416,372,have,4.85941,have,success,188.76000000000002,1954,"[{'duration': 0.08, 'phone': 'hh_B'}, {'duration': 0.05, 'phone': 'ae_I'}, {'duration': 0.11, 'phone': 'v_E'}]",188.52,1950,have
+381,417,373,the,6.02325,the,success,189.04,1958,"[{'duration': 0.08, 'phone': 'dh_B'}, {'duration': 0.18, 'phone': 'ah_E'}]",188.78,1955,the
+382,418,374,sort,14.6641,sort,success,189.42,1963,"[{'duration': 0.07, 'phone': 's_B'}, {'duration': 0.04, 'phone': 'ao_I'}, {'duration': 0.01, 'phone': 'r_I'}, {'duration': 0.05, 'phone': 't_E'}]",189.25,1959,sort
+383,419,375,of,0.685127,of,success,189.51999999999998,1966,"[{'duration': 0.01, 'phone': 'ah_B'}, {'duration': 0.09, 'phone': 'v_E'}]",189.42,1964,of
+384,420,376,obsidian,17.128,obsidian,success,190.21,1975,"[{'duration': 0.06, 'phone': 'ah_B'}, {'duration': 0.09, 'phone': 'b_I'}, {'duration': 0.05, 'phone': 's_I'}, {'duration': 0.08, 'phone': 'ih_I'}, {'duration': 0.05, 'phone': 'd_I'}, {'duration': 0.05, 'phone': 'iy_I'}, {'duration': 0.06, 'phone': 'ah_I'}, {'duration': 0.24, 'phone': 'n_E'}]",189.53,1967,obsidian
+385,421,377,discord,18.4702,discord,success,191.19000000000003,1983,"[{'duration': 0.08, 'phone': 'd_B'}, {'duration': 0.09, 'phone': 'ih_I'}, {'duration': 0.1, 'phone': 's_I'}, {'duration': 0.09, 'phone': 'k_I'}, {'duration': 0.08, 'phone': 'ao_I'}, {'duration': 0.07, 'phone': 'r_I'}, {'duration': 0.1, 'phone': 'd_E'}]",190.58,1976,discord
+386,422,378,thing,15.4053,thing,success,191.71,1989,"[{'duration': 0.07, 'phone': 'th_B'}, {'duration': 0.09, 'phone': 'ih_I'}, {'duration': 0.18, 'phone': 'ng_E'}]",191.37,1984,thing
+387,424,379,which,5.5719,which,success,192.73999899999998,1996,"[{'duration': 0.04, 'phone': 'hh_B'}, {'duration': 0.07, 'phone': 'w_I'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.06, 'phone': 'ch_E'}]",192.509999,1991,which
+388,425,380,is,4.0907800000000005,is,success,192.88,1999,"[{'duration': 0.06, 'phone': 'ih_B'}, {'duration': 0.08, 'phone': 'z_E'}]",192.74,1997,is
+389,426,381,a,4.00491,a,success,192.96,2001,"[{'duration': 0.08, 'phone': 'ah_S'}]",192.88,2000,a
+390,427,382,start,14.2925,start,success,193.31,2007,"[{'duration': 0.06, 'phone': 's_B'}, {'duration': 0.07, 'phone': 't_I'}, {'duration': 0.07, 'phone': 'aa_I'}, {'duration': 0.07, 'phone': 'r_I'}, {'duration': 0.08, 'phone': 't_E'}]",192.96,2002,start
+391,429,383,and,9.35971,and,success,193.35,2012,"[{'duration': 0.01, 'phone': 'ah_B'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.01, 'phone': 'd_E'}]",193.32,2009,And
+392,430,384,<unk>,5.54716,<unk>,success,194.59,2016,"[{'duration': 0.46, 'phone': 'oov_S'}]",194.13,2013,CPL
+393,431,385,is,7.78375,is,success,197.07999900000002,2019,"[{'duration': 0.07, 'phone': 'ih_B'}, {'duration': 0.2, 'phone': 'z_E'}]",196.809999,2017,is
+394,432,386,right,11.973,right,success,197.36999899999998,2025,"[{'duration': 0.09, 'phone': 'r_B'}, {'duration': 0.06, 'phone': 'ay_I'}, {'duration': 0.11, 'phone': 't_E'}]",197.109999,2020,right
+395,433,387,there,8.60699,there,success,197.599999,2031,"[{'duration': 0.06, 'phone': 'dh_B'}, {'duration': 0.08, 'phone': 'eh_I'}, {'duration': 0.09, 'phone': 'r_E'}]",197.369999,2026,there
+396,434,388,waiting,11.6496,waiting,success,197.9,2039,"[{'duration': 0.06, 'phone': 'w_B'}, {'duration': 0.05, 'phone': 'ey_I'}, {'duration': 0.06, 'phone': 't_I'}, {'duration': 0.05, 'phone': 'ih_I'}, {'duration': 0.08, 'phone': 'ng_E'}]",197.6,2032,waiting
+397,435,389,for,2.09884,for,success,198.02,2043,"[{'duration': 0.07, 'phone': 'f_B'}, {'duration': 0.05, 'phone': 'er_E'}]",197.9,2040,for
+398,436,390,me,10.8392,me,success,198.15,2046,"[{'duration': 0.07, 'phone': 'm_B'}, {'duration': 0.06, 'phone': 'iy_E'}]",198.02,2044,me
+399,437,391,of,9.11792,of,success,198.32,2049,"[{'duration': 0.08, 'phone': 'ah_B'}, {'duration': 0.09, 'phone': 'v_E'}]",198.15,2047,Of
+400,438,392,course,12.7767,course,success,198.69,2056,"[{'duration': 0.08, 'phone': 'k_B'}, {'duration': 0.06, 'phone': 'ao_I'}, {'duration': 0.1, 'phone': 'r_I'}, {'duration': 0.13, 'phone': 's_E'}]",198.32,2050,course
+401,439,393,i,6.202780000000001,i,success,198.79,2058,"[{'duration': 0.1, 'phone': 'ay_S'}]",198.69,2057,I
+402,440,394,do,6.66485,don't,success,199.03,2064,"[{'duration': 0.07, 'phone': 'd_B'}, {'duration': 0.06, 'phone': 'ow_I'}, {'duration': 0.08, 'phone': 'n_E'}]",198.82,2059,don't
+403,441,394,n't,2.16473,don't,success,199.03,2064,"[{'duration': 0.07, 'phone': 'd_B'}, {'duration': 0.06, 'phone': 'ow_I'}, {'duration': 0.08, 'phone': 'n_E'}]",198.82,2059,don't
+404,442,395,know,3.64458,know,success,199.18,2069,"[{'duration': 0.07, 'phone': 'n_B'}, {'duration': 0.08, 'phone': 'ow_E'}]",199.03,2065,know
+405,443,396,what,2.70823,what,success,199.41,2074,"[{'duration': 0.03, 'phone': 'hh_B'}, {'duration': 0.06, 'phone': 'w_I'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.1, 'phone': 't_E'}]",199.18,2070,what
+406,444,397,that,7.567660000000001,that,success,199.64999999999998,2079,"[{'duration': 0.08, 'phone': 'dh_B'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.08, 'phone': 't_E'}]",199.45,2075,that
+407,445,398,state,11.3498,state,success,199.99,2085,"[{'duration': 0.09, 'phone': 's_B'}, {'duration': 0.08, 'phone': 't_I'}, {'duration': 0.09, 'phone': 'ey_I'}, {'duration': 0.07, 'phone': 't_E'}]",199.66,2080,state
+408,446,399,is,6.9062,is,success,200.27,2088,"[{'duration': 0.1, 'phone': 'ih_B'}, {'duration': 0.18, 'phone': 'z_E'}]",199.99,2086,is
+409,447,400,but,12.4725,but,success,200.51000000000002,2092,"[{'duration': 0.07, 'phone': 'b_B'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.09, 'phone': 't_E'}]",200.3,2089,but
+410,448,401,certainly,13.3504,certainly,success,200.98999999999998,2102,"[{'duration': 0.13, 'phone': 's_B'}, {'duration': 0.08, 'phone': 'er_I'}, {'duration': 0.04, 'phone': 't_I'}, {'duration': 0.02, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 'n_I'}, {'duration': 0.06, 'phone': 'l_I'}, {'duration': 0.09, 'phone': 'iy_E'}]",200.51,2093,certainly
+411,449,402,i,9.51186,i,success,201.07000000000002,2104,"[{'duration': 0.08, 'phone': 'ay_S'}]",200.99,2103,I
+412,450,403,can,6.61137,can,success,201.29000000000002,2108,"[{'duration': 0.07, 'phone': 'k_B'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 'n_E'}]",201.11,2105,can
+413,451,404,<unk>,7.18824,<unk>,success,201.57,2120,"[{'duration': 0.28, 'phone': 'oov_S'}]",201.29,2109,reintegrate
+414,452,405,whenever,15.0254,whenever,success,203.12,2129,"[{'duration': 0.01, 'phone': 'w_B'}, {'duration': 0.02, 'phone': 'eh_I'}, {'duration': 0.08, 'phone': 'n_I'}, {'duration': 0.05, 'phone': 'eh_I'}, {'duration': 0.07, 'phone': 'v_I'}, {'duration': 0.1, 'phone': 'er_E'}]",202.79,2121,whenever
+415,453,406,i,6.25973,i,success,203.19,2131,"[{'duration': 0.07, 'phone': 'ay_S'}]",203.12,2130,I
+416,454,407,want,7.679539999999999,want,success,203.63,2136,"[{'duration': 0.08, 'phone': 'w_B'}, {'duration': 0.1, 'phone': 'ao_I'}, {'duration': 0.05, 'phone': 'n_I'}, {'duration': 0.21, 'phone': 't_E'}]",203.19,2132,want
+417,456,408,that,10.4092,that,success,205.54000000000002,2142,"[{'duration': 0.08, 'phone': 'dh_B'}, {'duration': 0.03, 'phone': 'ae_I'}, {'duration': 0.07, 'phone': 't_E'}]",205.36,2138,That
+418,457,409,one,8.40076,one's,success,205.69,2148,"[{'duration': 0.03, 'phone': 'w_B'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.05, 'phone': 'n_I'}, {'duration': 0.02, 'phone': 'z_E'}]",205.54,2143,one's
+419,458,409,'s,5.1802,one's,success,205.69,2148,"[{'duration': 0.03, 'phone': 'w_B'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.05, 'phone': 'n_I'}, {'duration': 0.02, 'phone': 'z_E'}]",205.54,2143,one's
+420,459,410,a,12.12,a,success,205.7,2150,"[{'duration': 0.01, 'phone': 'ah_S'}]",205.69,2149,a
+421,460,411,little,6.781739999999999,little,success,205.83999999999997,2157,"[{'duration': 0.01, 'phone': 'l_B'}, {'duration': 0.01, 'phone': 'ih_I'}, {'duration': 0.01, 'phone': 't_I'}, {'duration': 0.03, 'phone': 'ah_I'}, {'duration': 0.08, 'phone': 'l_E'}]",205.7,2151,little
+422,461,412,tough,13.1564,tough,success,206.31,2163,"[{'duration': 0.06, 'phone': 't_B'}, {'duration': 0.09, 'phone': 'ah_I'}, {'duration': 0.15, 'phone': 'f_E'}]",206.01,2158,tough
+423,462,413,because,9.13509,because,success,206.499999,2171,"[{'duration': 0.04, 'phone': 'b_B'}, {'duration': 0.01, 'phone': 'ih_I'}, {'duration': 0.04, 'phone': 'k_I'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.05, 'phone': 'z_E'}]",206.309999,2164,because
+424,463,414,it,4.01936,it's,success,206.81,2176,"[{'duration': 0.1, 'phone': 'ih_B'}, {'duration': 0.08, 'phone': 't_I'}, {'duration': 0.13, 'phone': 's_E'}]",206.5,2172,it's
+425,464,414,'s,5.37094,it's,success,206.81,2176,"[{'duration': 0.1, 'phone': 'ih_B'}, {'duration': 0.08, 'phone': 't_I'}, {'duration': 0.13, 'phone': 's_E'}]",206.5,2172,it's
+426,465,415,tied,21.2224,tied,success,207.069999,2181,"[{'duration': 0.1, 'phone': 't_B'}, {'duration': 0.11, 'phone': 'ay_I'}, {'duration': 0.05, 'phone': 'd_E'}]",206.809999,2177,tied
+427,466,416,of,11.8399,of,success,207.19,2184,"[{'duration': 0.04, 'phone': 'ah_B'}, {'duration': 0.08, 'phone': 'v_E'}]",207.07,2182,Of
+428,467,417,course,12.3918,course,success,207.44,2191,"[{'duration': 0.09, 'phone': 'k_B'}, {'duration': 0.04, 'phone': 'ao_I'}, {'duration': 0.07, 'phone': 'r_I'}, {'duration': 0.05, 'phone': 's_E'}]",207.19,2185,course
+429,468,418,to,7.29965,to,success,207.54,2194,"[{'duration': 0.05, 'phone': 't_B'}, {'duration': 0.05, 'phone': 'ih_E'}]",207.44,2192,to
+430,469,419,my,11.844,my,success,207.7,2197,"[{'duration': 0.06, 'phone': 'm_B'}, {'duration': 0.1, 'phone': 'ay_E'}]",207.54,2195,my
+431,470,420,work,7.935339999999999,work,success,207.97,2202,"[{'duration': 0.1, 'phone': 'w_B'}, {'duration': 0.08, 'phone': 'er_I'}, {'duration': 0.09, 'phone': 'k_E'}]",207.7,2198,work
+432,471,421,progress,16.6036,progress,success,208.629999,2211,"[{'duration': 0.07, 'phone': 'p_B'}, {'duration': 0.06, 'phone': 'r_I'}, {'duration': 0.04, 'phone': 'aa_I'}, {'duration': 0.08, 'phone': 'g_I'}, {'duration': 0.05, 'phone': 'r_I'}, {'duration': 0.11, 'phone': 'eh_I'}, {'duration': 0.25, 'phone': 's_E'}]",207.969999,2203,progress
+433,475,422,in,3.58982,in,success,210.39000000000001,2218,"[{'duration': 0.01, 'phone': 'ih_B'}, {'duration': 0.11, 'phone': 'n_E'}]",210.27,2216,In
+434,476,423,summary,12.5045,summary,success,211.9,2226,"[{'duration': 0.01, 'phone': 's_B'}, {'duration': 0.01, 'phone': 'ah_I'}, {'duration': 0.01, 'phone': 'm_I'}, {'duration': 0.01, 'phone': 'er_I'}, {'duration': 0.02, 'phone': 'iy_E'}]",211.84,2219,summary
+435,478,424,there,9.08621,there,success,212.55,2233,"[{'duration': 0.07, 'phone': 'dh_B'}, {'duration': 0.07, 'phone': 'eh_I'}, {'duration': 0.07, 'phone': 'r_E'}]",212.34,2228,there
+436,479,425,are,2.2796,are,success,212.60999900000002,2237,"[{'duration': 0.06, 'phone': 'er_S'}]",212.549999,2234,are
+437,480,426,two,4.2941400000000005,two,success,212.97000000000003,2241,"[{'duration': 0.13, 'phone': 't_B'}, {'duration': 0.23, 'phone': 'uw_E'}]",212.61,2238,two
+438,481,427,things,10.6043,things,success,213.469999,2248,"[{'duration': 0.09, 'phone': 'th_B'}, {'duration': 0.07, 'phone': 'ih_I'}, {'duration': 0.14, 'phone': 'ng_I'}, {'duration': 0.08, 'phone': 'z_E'}]",213.089999,2242,things
+439,482,428,to,5.341469999999999,to,success,217.77,2251,"[{'duration': 0.1, 'phone': 't_B'}, {'duration': 0.15, 'phone': 'uw_E'}]",217.52,2249,to
+440,483,429,not,11.419,not,success,219.84,2255,"[{'duration': 0.14, 'phone': 'n_B'}, {'duration': 0.06, 'phone': 'aa_I'}, {'duration': 0.07, 'phone': 't_E'}]",219.57,2252,not
+441,484,430,forget,12.7925,forget,success,220.19,2262,"[{'duration': 0.07, 'phone': 'f_B'}, {'duration': 0.07, 'phone': 'er_I'}, {'duration': 0.07, 'phone': 'g_I'}, {'duration': 0.06, 'phone': 'eh_I'}, {'duration': 0.08, 'phone': 't_E'}]",219.84,2256,forget
+442,485,431,here,13.6989,here,success,220.44,2267,"[{'duration': 0.06, 'phone': 'hh_B'}, {'duration': 0.09, 'phone': 'iy_I'}, {'duration': 0.1, 'phone': 'r_E'}]",220.19,2263,here
+443,487,432,the,17.3249,the,success,220.84,2272,"[{'duration': 0.23, 'phone': 'dh_B'}, {'duration': 0.09, 'phone': 'ah_E'}]",220.52,2269,The
+444,488,433,first,8.71002,first,success,221.29999999999998,2278,"[{'duration': 0.2, 'phone': 'f_B'}, {'duration': 0.11, 'phone': 'er_I'}, {'duration': 0.07, 'phone': 's_I'}, {'duration': 0.07, 'phone': 't_E'}]",220.85,2273,first
+445,489,434,is,10.6748,is,success,221.51000000000002,2281,"[{'duration': 0.03, 'phone': 'ih_B'}, {'duration': 0.18, 'phone': 'z_E'}]",221.3,2279,is
+446,490,435,the,4.90961,the,success,221.64000000000001,2285,"[{'duration': 0.06, 'phone': 'dh_B'}, {'duration': 0.06, 'phone': 'ah_E'}]",221.52,2282,the
+447,491,436,idea,5.9431400000000005,idea,success,221.95999999999998,2290,"[{'duration': 0.11, 'phone': 'ay_B'}, {'duration': 0.11, 'phone': 'd_I'}, {'duration': 0.09, 'phone': 'iy_I'}, {'duration': 0.01, 'phone': 'ah_E'}]",221.64,2286,idea
+448,492,437,of,1.6451900000000002,of,success,222.08,2293,"[{'duration': 0.05, 'phone': 'ah_B'}, {'duration': 0.07, 'phone': 'v_E'}]",221.96,2291,of
+449,493,438,a,3.6329,a,success,222.16000000000003,2295,"[{'duration': 0.08, 'phone': 'ey_S'}]",222.08,2294,a
+450,494,439,year,10.8796,year,success,222.45,2300,"[{'duration': 0.1, 'phone': 'y_B'}, {'duration': 0.11, 'phone': 'ih_I'}, {'duration': 0.08, 'phone': 'r_E'}]",222.16,2296,year
+451,495,440,of,6.42331,of,success,222.6,2303,"[{'duration': 0.07, 'phone': 'ah_B'}, {'duration': 0.08, 'phone': 'v_E'}]",222.45,2301,of
+452,496,441,adventure,14.3982,adventure,success,223.18,2313,"[{'duration': 0.05, 'phone': 'ah_B'}, {'duration': 0.05, 'phone': 'd_I'}, {'duration': 0.07, 'phone': 'v_I'}, {'duration': 0.07, 'phone': 'eh_I'}, {'duration': 0.08, 'phone': 'n_I'}, {'duration': 0.1, 'phone': 'ch_I'}, {'duration': 0.16, 'phone': 'er_E'}]",222.6,2304,adventure
+453,498,442,and,9.35971,and,success,224.849999,2318,"[{'duration': 0.23, 'phone': 'ah_B'}, {'duration': 0.14, 'phone': 'n_I'}, {'duration': 0.13, 'phone': 'd_E'}]",224.349999,2315,And
+454,499,443,what,10.8128,what,success,225.1,2323,"[{'duration': 0.05, 'phone': 'hh_B'}, {'duration': 0.08, 'phone': 'w_I'}, {'duration': 0.08, 'phone': 'ah_I'}, {'duration': 0.01, 'phone': 't_E'}]",224.88,2319,what
+455,500,444,other,9.13744,other,success,225.339999,2329,"[{'duration': 0.08, 'phone': 'ah_B'}, {'duration': 0.07, 'phone': 'dh_I'}, {'duration': 0.09, 'phone': 'er_E'}]",225.099999,2324,other
+456,501,445,forms,9.4144,forms,success,225.69,2335,"[{'duration': 0.09, 'phone': 'f_B'}, {'duration': 0.07, 'phone': 'ao_I'}, {'duration': 0.06, 'phone': 'r_I'}, {'duration': 0.05, 'phone': 'm_I'}, {'duration': 0.08, 'phone': 'z_E'}]",225.34,2330,forms
+457,502,446,adventure,18.2165,adventure,success,226.16,2345,"[{'duration': 0.05, 'phone': 'ah_B'}, {'duration': 0.04, 'phone': 'd_I'}, {'duration': 0.07, 'phone': 'v_I'}, {'duration': 0.05, 'phone': 'eh_I'}, {'duration': 0.07, 'phone': 'n_I'}, {'duration': 0.1, 'phone': 'ch_I'}, {'duration': 0.09, 'phone': 'er_E'}]",225.69,2336,adventure
+458,503,447,could,11.6767,could,success,226.35999999999999,2351,"[{'duration': 0.06, 'phone': 'k_B'}, {'duration': 0.07, 'phone': 'uh_I'}, {'duration': 0.07, 'phone': 'd_E'}]",226.16,2346,could
+459,504,448,take,6.88933,take,success,226.76000000000002,2356,"[{'duration': 0.1, 'phone': 't_B'}, {'duration': 0.09, 'phone': 'ey_I'}, {'duration': 0.21, 'phone': 'k_E'}]",226.36,2352,take
+460,505,449,for,8.37691,for,success,227.29,2360,"[{'duration': 0.09, 'phone': 'f_B'}, {'duration': 0.07, 'phone': 'er_E'}]",227.13,2357,for
+461,506,450,me,10.3799,me,success,227.56,2363,"[{'duration': 0.09, 'phone': 'm_B'}, {'duration': 0.18, 'phone': 'iy_E'}]",227.29,2361,me
+462,507,451,in,5.82988,in,success,228.649999,2366,"[{'duration': 0.05, 'phone': 'ih_B'}, {'duration': 0.04, 'phone': 'n_E'}]",228.559999,2364,in
+463,508,452,ways,13.1071,ways,success,228.87,2371,"[{'duration': 0.07, 'phone': 'w_B'}, {'duration': 0.08, 'phone': 'ey_I'}, {'duration': 0.07, 'phone': 'z_E'}]",228.65,2367,ways
+464,509,453,that,0.934134,that,success,229.03,2376,"[{'duration': 0.07, 'phone': 'dh_B'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.05, 'phone': 't_E'}]",228.87,2372,that
+465,510,454,are,3.3188699999999995,are,success,229.24,2380,"[{'duration': 0.05, 'phone': 'aa_B'}, {'duration': 0.16, 'phone': 'r_E'}]",229.03,2377,are
+466,511,455,productive,15.3431,productive,success,229.98,2391,"[{'duration': 0.05, 'phone': 'p_B'}, {'duration': 0.02, 'phone': 'r_I'}, {'duration': 0.06, 'phone': 'ah_I'}, {'duration': 0.02, 'phone': 'd_I'}, {'duration': 0.09, 'phone': 'ah_I'}, {'duration': 0.09, 'phone': 'k_I'}, {'duration': 0.07, 'phone': 't_I'}, {'duration': 0.13, 'phone': 'ih_I'}, {'duration': 0.13, 'phone': 'v_E'}]",229.32,2381,productive
+467,512,456,and,5.18878,and,success,230.24,2395,"[{'duration': 0.06, 'phone': 'ah_B'}, {'duration': 0.08, 'phone': 'n_I'}, {'duration': 0.08, 'phone': 'd_E'}]",230.02,2392,and
+468,513,457,conducive,21.5607,conducive,success,230.749999,2405,"[{'duration': 0.08, 'phone': 'k_B'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.05, 'phone': 'n_I'}, {'duration': 0.06, 'phone': 'd_I'}, {'duration': 0.06, 'phone': 'uw_I'}, {'duration': 0.05, 'phone': 's_I'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.09, 'phone': 'v_E'}]",230.259999,2396,conducive
+469,514,458,to,0.6192850000000001,to,success,230.86,2408,"[{'duration': 0.05, 'phone': 't_B'}, {'duration': 0.06, 'phone': 'ah_E'}]",230.75,2406,to
+470,515,459,growth,14.2546,growth,success,231.28,2415,"[{'duration': 0.07, 'phone': 'g_B'}, {'duration': 0.06, 'phone': 'r_I'}, {'duration': 0.11, 'phone': 'ow_I'}, {'duration': 0.17, 'phone': 'th_E'}]",230.87,2409,growth
+471,517,460,and,9.84514,and,success,233.239999,2420,"[{'duration': 0.1, 'phone': 'ae_B'}, {'duration': 0.05, 'phone': 'n_I'}, {'duration': 0.04, 'phone': 'd_E'}]",233.049999,2417,And
+472,518,461,then,7.904560000000001,then,success,233.35000000000002,2425,"[{'duration': 0.01, 'phone': 'dh_B'}, {'duration': 0.05, 'phone': 'eh_I'}, {'duration': 0.05, 'phone': 'n_E'}]",233.24,2421,then
+473,519,462,the,4.93043,the,success,233.45,2429,"[{'duration': 0.04, 'phone': 'dh_B'}, {'duration': 0.06, 'phone': 'ah_E'}]",233.35,2426,the
+474,520,463,second,7.7551,second,success,233.829999,2436,"[{'duration': 0.08, 'phone': 's_B'}, {'duration': 0.07, 'phone': 'eh_I'}, {'duration': 0.05, 'phone': 'k_I'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.06, 'phone': 'n_I'}, {'duration': 0.07, 'phone': 'd_E'}]",233.449999,2430,second
+475,521,464,idea,12.3256,idea,success,234.2,2441,"[{'duration': 0.08, 'phone': 'ay_B'}, {'duration': 0.11, 'phone': 'd_I'}, {'duration': 0.12, 'phone': 'iy_I'}, {'duration': 0.06, 'phone': 'ah_E'}]",233.82999999999998,2437,idea
+476,522,465,is,5.15568,is,success,234.64,2444,"[{'duration': 0.16, 'phone': 'ih_B'}, {'duration': 0.26, 'phone': 'z_E'}]",234.22,2442,is
+477,523,466,re,19.8457,re,success,235.73999999999998,2447,"[{'duration': 0.13, 'phone': 'r_B'}, {'duration': 0.06, 'phone': 'iy_E'}]",235.54999999999998,2445,re
+478,524,467,engaging,16.0094,engaging,success,236.29,2456,"[{'duration': 0.06, 'phone': 'eh_B'}, {'duration': 0.07, 'phone': 'n_I'}, {'duration': 0.09, 'phone': 'g_I'}, {'duration': 0.09, 'phone': 'ey_I'}, {'duration': 0.09, 'phone': 'jh_I'}, {'duration': 0.1, 'phone': 'ih_I'}, {'duration': 0.05, 'phone': 'ng_E'}]",235.73999999999998,2448,engaging
+479,526,468,or,7.27654,or,success,236.69,2460,"[{'duration': 0.13, 'phone': 'ao_B'}, {'duration': 0.09, 'phone': 'r_E'}]",236.47,2458,or
+480,527,469,discovering,16.5319,discovering,success,237.29,2472,"[{'duration': 0.06, 'phone': 'd_B'}, {'duration': 0.05, 'phone': 'ih_I'}, {'duration': 0.05, 'phone': 's_I'}, {'duration': 0.05, 'phone': 'k_I'}, {'duration': 0.08, 'phone': 'ah_I'}, {'duration': 0.07, 'phone': 'v_I'}, {'duration': 0.07, 'phone': 'er_I'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.11, 'phone': 'ng_E'}]",236.69,2461,discovering
+481,528,470,new,5.61821,new,success,237.72,2476,"[{'duration': 0.06, 'phone': 'n_B'}, {'duration': 0.07, 'phone': 'y_I'}, {'duration': 0.29, 'phone': 'uw_E'}]",237.3,2473,new
+482,529,471,community,11.4132,community,success,238.95000000000002,2486,"[{'duration': 0.06, 'phone': 'k_B'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.02, 'phone': 'm_I'}, {'duration': 0.07, 'phone': 'y_I'}, {'duration': 0.04, 'phone': 'uw_I'}, {'duration': 0.02, 'phone': 'n_I'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.05, 'phone': 't_I'}, {'duration': 0.16, 'phone': 'iy_E'}]",238.43,2477,community
+483,530,472,and,4.13839,and,success,239.92000000000002,2490,"[{'duration': 0.24, 'phone': 'ah_B'}, {'duration': 0.14, 'phone': 'n_I'}, {'duration': 0.21, 'phone': 'd_E'}]",239.33,2487,and
+484,531,473,personal,8.82092,personal,success,240.48,2499,"[{'duration': 0.08, 'phone': 'p_B'}, {'duration': 0.08, 'phone': 'er_I'}, {'duration': 0.08, 'phone': 's_I'}, {'duration': 0.05, 'phone': 'ih_I'}, {'duration': 0.02, 'phone': 'n_I'}, {'duration': 0.09, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 'l_E'}]",240.01,2491,personal
+485,532,474,relationship,7.16708,relationship,success,241.67,2512,"[{'duration': 0.06, 'phone': 'r_B'}, {'duration': 0.06, 'phone': 'iy_I'}, {'duration': 0.07, 'phone': 'l_I'}, {'duration': 0.06, 'phone': 'ey_I'}, {'duration': 0.1, 'phone': 'sh_I'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.08, 'phone': 'n_I'}, {'duration': 0.09, 'phone': 'sh_I'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.17, 'phone': 'p_E'}]",240.88,2500,relationship
+486,534,475,these,13.7973,these,success,242.95000000000002,2519,"[{'duration': 0.09, 'phone': 'dh_B'}, {'duration': 0.06, 'phone': 'iy_I'}, {'duration': 0.09, 'phone': 'z_E'}]",242.71,2514,These
+487,535,476,are,7.59037,are,success,243.17999999999998,2523,"[{'duration': 0.23, 'phone': 'er_S'}]",242.95,2520,are
+488,536,477,two,7.673769999999999,two,success,243.789999,2527,"[{'duration': 0.08, 'phone': 't_B'}, {'duration': 0.07, 'phone': 'uw_E'}]",243.639999,2524,two
+489,537,478,things,10.3616,things,success,244.06,2534,"[{'duration': 0.08, 'phone': 'th_B'}, {'duration': 0.05, 'phone': 'ih_I'}, {'duration': 0.07, 'phone': 'ng_I'}, {'duration': 0.07, 'phone': 'z_E'}]",243.79,2528,things
+490,538,479,that,4.14526,that,success,244.12,2539,"[{'duration': 0.01, 'phone': 'dh_B'}, {'duration': 0.01, 'phone': 'ah_I'}, {'duration': 0.03, 'phone': 't_E'}]",244.07,2535,that
+491,539,480,are,3.35094,are,success,244.20000000000002,2543,"[{'duration': 0.08, 'phone': 'er_S'}]",244.12,2540,are
+492,540,481,on,9.04279,on,success,244.26999999999998,2546,"[{'duration': 0.02, 'phone': 'aa_B'}, {'duration': 0.05, 'phone': 'n_E'}]",244.2,2544,on
+493,541,482,my,9.31629,my,success,244.35000000000002,2549,"[{'duration': 0.03, 'phone': 'm_B'}, {'duration': 0.05, 'phone': 'ay_E'}]",244.27,2547,my
+494,542,483,mind,4.0233,mind,success,244.569999,2554,"[{'duration': 0.05, 'phone': 'm_B'}, {'duration': 0.08, 'phone': 'ay_I'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.08, 'phone': 'd_E'}]",244.349999,2550,mind
+495,543,484,right,14.9193,right,success,244.73999999999998,2560,"[{'duration': 0.04, 'phone': 'r_B'}, {'duration': 0.05, 'phone': 'ay_I'}, {'duration': 0.08, 'phone': 't_E'}]",244.57,2555,right
+496,544,485,now,5.4547300000000005,now,success,244.9,2564,"[{'duration': 0.04, 'phone': 'n_B'}, {'duration': 0.12, 'phone': 'aw_E'}]",244.74,2561,now
+497,546,486,anyway,19.4087,anyway,success,246.74,2572,"[{'duration': 0.07, 'phone': 'eh_B'}, {'duration': 0.01, 'phone': 'n_I'}, {'duration': 0.05, 'phone': 'iy_I'}, {'duration': 0.07, 'phone': 'w_I'}, {'duration': 0.04, 'phone': 'ey_E'}]",246.5,2566,Anyway
+498,548,487,it,6.346769999999999,it,success,246.82000000000002,2576,"[{'duration': 0.01, 'phone': 'ih_B'}, {'duration': 0.07, 'phone': 't_E'}]",246.74,2574,it
+499,549,488,was,2.84781,was,success,246.91,2580,"[{'duration': 0.01, 'phone': 'w_B'}, {'duration': 0.04, 'phone': 'ah_I'}, {'duration': 0.04, 'phone': 'z_E'}]",246.82,2577,was
+500,550,489,a,4.82117,a,success,246.95,2582,"[{'duration': 0.04, 'phone': 'ah_S'}]",246.91,2581,a
+501,551,490,great,7.0194600000000005,great,success,247.14,2588,"[{'duration': 0.05, 'phone': 'g_B'}, {'duration': 0.04, 'phone': 'r_I'}, {'duration': 0.02, 'phone': 'ey_I'}, {'duration': 0.08, 'phone': 't_E'}]",246.95,2583,great
+502,552,491,walk,14.7954,walk,success,247.389999,2593,"[{'duration': 0.03, 'phone': 'w_B'}, {'duration': 0.11, 'phone': 'ao_I'}, {'duration': 0.11, 'phone': 'k_E'}]",247.139999,2589,walk
+503,553,492,i,13.5462,i,success,247.449999,2595,"[{'duration': 0.06, 'phone': 'ay_S'}]",247.389999,2594,I
+504,554,493,just,8.24682,just,success,247.60999999999999,2600,"[{'duration': 0.06, 'phone': 'jh_B'}, {'duration': 0.02, 'phone': 'ih_I'}, {'duration': 0.01, 'phone': 's_I'}, {'duration': 0.07, 'phone': 't_E'}]",247.45,2596,just
+505,555,494,wanted,6.31332,wanted,success,247.82000000000002,2607,"[{'duration': 0.01, 'phone': 'w_B'}, {'duration': 0.04, 'phone': 'ao_I'}, {'duration': 0.06, 'phone': 'n_I'}, {'duration': 0.06, 'phone': 'ih_I'}, {'duration': 0.04, 'phone': 'd_E'}]",247.61,2601,wanted
+506,556,495,to,1.7778200000000002,to,success,247.92,2610,"[{'duration': 0.02, 'phone': 't_B'}, {'duration': 0.08, 'phone': 'ih_E'}]",247.82,2608,to
+507,557,496,make,5.19252,make,success,248.64,2615,"[{'duration': 0.07, 'phone': 'm_B'}, {'duration': 0.07, 'phone': 'ey_I'}, {'duration': 0.05, 'phone': 'k_E'}]",248.45,2611,make
+508,558,497,up,6.54021,up,success,248.759999,2618,"[{'duration': 0.06, 'phone': 'ah_B'}, {'duration': 0.06, 'phone': 'p_E'}]",248.639999,2616,up
+509,559,498,that,11.2958,that,success,248.919999,2623,"[{'duration': 0.04, 'phone': 'dh_B'}, {'duration': 0.05, 'phone': 'ae_I'}, {'duration': 0.07, 'phone': 't_E'}]",248.759999,2619,that
+510,560,499,fact,13.0848,fact,success,249.19,2628,"[{'duration': 0.09, 'phone': 'f_B'}, {'duration': 0.07, 'phone': 'ae_I'}, {'duration': 0.07, 'phone': 'k_I'}, {'duration': 0.04, 'phone': 't_E'}]",248.92,2624,fact
+511,561,500,down,12.6588,down,success,249.35999999999999,2633,"[{'duration': 0.06, 'phone': 'd_B'}, {'duration': 0.1, 'phone': 'aw_I'}, {'duration': 0.01, 'phone': 'n_E'}]",249.19,2629,down
+512,562,501,and,4.87943,and,success,249.63,2637,"[{'duration': 0.01, 'phone': 'ae_B'}, {'duration': 0.02, 'phone': 'n_I'}, {'duration': 0.09, 'phone': 'd_E'}]",249.51,2634,and
+513,563,502,<unk>,5.01693,bask,success,252.73999999999998,2642,"[{'duration': 0.06, 'phone': 'b_B'}, {'duration': 0.08, 'phone': 'ae_I'}, {'duration': 0.06, 'phone': 's_I'}, {'duration': 0.01, 'phone': 'k_E'}]",252.52999999999997,2638,bask
+514,564,503,in,5.37695,in,success,252.76,2645,"[{'duration': 0.01, 'phone': 'ih_B'}, {'duration': 0.01, 'phone': 'n_E'}]",252.73999999999998,2643,in
+515,565,504,the,2.41631,the,success,252.99,2649,"[{'duration': 0.01, 'phone': 'dh_B'}, {'duration': 0.05, 'phone': 'iy_E'}]",252.93,2646,the
+516,566,505,emotion,16.3387,emotion,success,253.42000000000002,2657,"[{'duration': 0.05, 'phone': 'ih_B'}, {'duration': 0.07, 'phone': 'm_I'}, {'duration': 0.06, 'phone': 'ow_I'}, {'duration': 0.11, 'phone': 'sh_I'}, {'duration': 0.05, 'phone': 'ah_I'}, {'duration': 0.09, 'phone': 'n_E'}]",252.99,2650,emotion
+517,567,506,for,8.36383,for,success,253.54000000000002,2661,"[{'duration': 0.06, 'phone': 'f_B'}, {'duration': 0.06, 'phone': 'er_E'}]",253.42000000000002,2658,for
+518,568,507,a,5.23398,a,success,253.6,2663,"[{'duration': 0.06, 'phone': 'ah_S'}]",253.54,2662,a
+519,569,508,little,9.41003,little,success,253.73999999999998,2670,"[{'duration': 0.06, 'phone': 'l_B'}, {'duration': 0.03, 'phone': 'ih_I'}, {'duration': 0.03, 'phone': 't_I'}, {'duration': 0.01, 'phone': 'ah_I'}, {'duration': 0.01, 'phone': 'l_E'}]",253.6,2664,little
+520,570,509,longer,3.84261,longer,success,254.21,2677,"[{'duration': 0.1, 'phone': 'l_B'}, {'duration': 0.07, 'phone': 'ao_I'}, {'duration': 0.06, 'phone': 'ng_I'}, {'duration': 0.08, 'phone': 'g_I'}, {'duration': 0.15, 'phone': 'er_E'}]",253.75,2671,longer
+521,572,510,and,8.695260000000001,and,success,254.62,2682,"[{'duration': 0.09, 'phone': 'ah_B'}, {'duration': 0.13, 'phone': 'n_I'}, {'duration': 0.13, 'phone': 'd_E'}]",254.27,2679,And
+522,573,511,that,8.16496,that's,success,255.17000000000002,2689,"[{'duration': 0.08, 'phone': 'dh_B'}, {'duration': 0.02, 'phone': 'ae_I'}, {'duration': 0.05, 'phone': 't_I'}, {'duration': 0.03, 'phone': 's_E'}]",254.99,2683,that's
+523,574,511,'s,6.938160000000001,that's,success,255.17000000000002,2689,"[{'duration': 0.08, 'phone': 'dh_B'}, {'duration': 0.02, 'phone': 'ae_I'}, {'duration': 0.05, 'phone': 't_I'}, {'duration': 0.03, 'phone': 's_E'}]",254.99,2683,that's
+524,575,512,it,5.55041,it,success,255.26999999999998,2692,"[{'duration': 0.05, 'phone': 'ih_B'}, {'duration': 0.05, 'phone': 't_E'}]",255.17,2690,it
+525,576,513,for,9.11516,for,success,255.52,2696,"[{'duration': 0.04, 'phone': 'f_B'}, {'duration': 0.03, 'phone': 'r_I'}, {'duration': 0.18, 'phone': 'er_E'}]",255.27,2693,for
+526,577,514,now,13.2743,now,success,255.55,2700,"[{'duration': 0.01, 'phone': 'n_B'}, {'duration': 0.01, 'phone': 'aw_E'}]",255.53,2697,now
